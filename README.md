@@ -151,6 +151,7 @@ star rail
         <tr><th>HP</th><th>공격력</th><th>방어력</th><th>속도</th></tr>
         <tr><td>-</td><td>-</td><td>-</td><td>-</td></tr>
       </table>
+      </section>
 
   <section id="attack">
   <h4><span class="wiki-blue">3.2.1.</span> 일반공격: 논증 방법</h4>
