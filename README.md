@@ -10,8 +10,8 @@ star rail
 
   
 <style>
-  .wiki-blue {
-  color: #3366cc !important;
+  .wiki-content .wiki-blue {
+  color: #3366cc; !important
 }
 
 .infobox {
