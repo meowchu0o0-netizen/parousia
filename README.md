@@ -13,6 +13,8 @@ star rail
   .wiki-content .wiki-blue {
   color: #3366cc; !important
 }
+  .wiki-content { overflow: hidden; }
+
 
 .infobox {
   width: 320px;
