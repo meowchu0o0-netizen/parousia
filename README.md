@@ -10,7 +10,7 @@ star rail
 
 
 <style>
-.wiki-blue {
+.wiki-content .wiki-blue {
   color: #3366cc !important;
 }
   
@@ -94,6 +94,7 @@ main {
 
 
 <body>
+  <div class="wiki-content">
   <header class="wiki-header">
   <h1>파루시아 <span class="en">parousia</span></h1>
   <p class="subtitle">붕괴: 스타레일 플레이어블 캐릭터</p>
