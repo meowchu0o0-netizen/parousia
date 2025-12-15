@@ -27,6 +27,27 @@ star rail
 
   <aside class="infobox">
     <img src="img/parousia.png" alt="파루시아" />
+    <style>
+      .infobox {
+        border-collapse: collapse;
+        width: 320px;
+        font-size:14px;
+        }
+      .infobox th {
+        background-color: #2b2f3a;
+        color: #ffffff;
+        text-align: left;
+        padding: 8px;
+        width: 35%;
+        border: 1px solid #dcdcdc;
+        }
+      .infobox td {
+   background-color: #f8f9fa;
+   color: #000000;
+   paddinf: 8px;
+   border: 1px solid #dcdcdc;
+   }
+    </style>
     <table>
       <tr><th>이름</th><td>파루시아</td></tr>
       <tr><th>본명</th><td>휘포스타시스 파루시아</td></tr>
