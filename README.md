@@ -51,7 +51,7 @@ star rail
   padding: 16px 20px;
   max-width: 420px;
   background-color: transparent;
-  border-radius: 0px;
+  border-radius: 1px;
   margin: 20px 0;
 }
 
