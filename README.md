@@ -144,7 +144,7 @@ star rail
   <section id="media">
       <h2>2. 관련 매체</h2>
   <section id="media1">
-      <h3>2.2. 소개 동영상</h3>
+      <h3>2.1. 소개 동영상</h3>
       <div class="video">
         <iframe src="https://youtu.be/7R4OwF90NQI?si=YYtVOovTwl2hW6lb" title="Character PV"></iframe>
       </div>
@@ -153,10 +153,10 @@ star rail
 
    
   <section id="ingame">
-      <h2>인게임 정보</h2>
+      <h2>3. 인게임 정보</h2>
 
   <section id="attribute">
-    <h3>속성</h3>
+    <h3>3.1. 속성</h3>
         <table class="wiki-table">
         <tr><th>HP</th><th>공격력</th><th>방어력</th><th>속도</th></tr>
         <tr><td>-</td><td>-</td><td>-</td><td>-</td></tr>
@@ -169,19 +169,19 @@ star rail
       </div>
 
 <section id="attack2">
-  <h4>전투 스킬: 진리의 선도자</h4>
+  <h4>3.2.2. 전투 스킬: 진리의 선도자</h4>
   <div class="skill">
     <p>모든 적에게 허수 속성 피해</p>
       </div>
 
   <section id="attack3">
-    <h4>필살기: 가장 고결했던 진리의 잔향</h4>
+    <h4>3.2.3. 필살기: 가장 고결했던 진리의 잔향</h4>
   <div class="skill">
       <p>에너지 90 소모, 전체 공격</p>
       </div>
 
   <section id="attack4">
-    <h4>강화 필살기: 빛이 영면에 드는 빙법</h4>
+    <h4>3.2.4. 강화 필살기: 빛이 영면에 드는 빙법</h4>
   <div class="skill highlight">
       <p>에너지 180 소모, 바운스 추가 피해, 속도가 10% 감소</p>
       </div>
@@ -189,7 +189,7 @@ star rail
 
    
 <section id="eidolon">
-      <h2>성혼</h2>
+      <h2>3.3. 성혼</h2>
       <ol>
         <li>영원한 진리</li>
         <li>이데아의 현상계</li>
