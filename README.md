@@ -53,6 +53,13 @@ star rail
   margin: 20px 0;
 }
 
+   .toc: :before {
+    content: "목차";
+    display: block;
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: #ffffff;
+
 .toc ul {
   list-style: none;
   margin: 0;
