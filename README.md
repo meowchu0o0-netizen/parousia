@@ -52,6 +52,7 @@ star rail
   background-color: rgba(0, 0, 0, 0.25);
   border-radius: 4px;
   margin: 20px 0;
+  clear: both;
 }
 
 .toc ul {
