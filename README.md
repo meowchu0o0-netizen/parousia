@@ -5,16 +5,18 @@ star rail
 <html lang="ko">
 <head>
 <meta charset="UTF-8" />
-<title>파루시아 </title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  @media (max-width: 768px) {
+<title>파루시아</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<style>
+@media (max-width: 768px) {
   .infobox {
     float: none;
     width: 100%;
     margin: 10px 0;
   }
 }
-
+</style>
 </head>
 <body>
 
