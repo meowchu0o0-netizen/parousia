@@ -68,6 +68,10 @@ star rail
     margin: 10px 0;
   }
 }
+  .wiki-content > section:first-child {
+  clear: both;
+}
+
 </style>
 </head>
 
