@@ -172,6 +172,7 @@ star rail
       <tr><tH>파티 편성 뫄뫄</tH>th><td></tr>
       </table>
   </details>
+  </aside>
 
   <details>
     <summary><b>[전투]</b></summary>
@@ -200,10 +201,9 @@ star rail
       <tr><tH>적 발견</tH>th><td></tr>
       <tr><tH>도시로 복귀</tH>th><td></tr>
       </table>
-   
   </details>
 </section>
-
+</aside>
    
   <section id="story">
       <h2>이야기</h2>
