@@ -222,7 +222,7 @@ main {
   <details>
     <summary><b>[상호작용]</b></summary>
     <table>
-      <tr><th>첫 만남</th><td>저는 진리의 선구자가 아닌 선도자입니다. 부디 잊지 말아주세요.</td></tr>
+      <tr><th>첫 만남</th><td>저는 진리의 선구자가 아닌 최초의 것을 신봉하는 선도자입니다. 잊지 말아주세요</td></tr>
       <tr><th>인사</th><td></td></tr>
       <tr><th>작별</th><td></td></tr>
       <tr><th>자신에 대해</th><td></td></tr>
