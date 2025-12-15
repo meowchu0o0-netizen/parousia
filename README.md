@@ -10,6 +10,7 @@ star rail
 
   
 <style>
+  <main class="wiki-content">
   .wiki-content .wiki-blue {
   color: #3366cc !important;
 }
