@@ -53,14 +53,6 @@ star rail
   margin: 20px 0;
 }
 
-   .toc: :before {
-    content: "목차";
-    display: block;
-    font-weight: 600;
-    margin-bottom: 8px;
-    color: #ffffff;
-   }
-  
 .toc ul {
   list-style: none;
   margin: 0;
@@ -78,13 +70,10 @@ star rail
   color: #e6e6e6;
   text-decoration: none;
   font-size: 14px;
-  display: inline-blodck;
-  line-height: 1.4;
 }
 
 .toc a:hover {
   text-decoration: underline;
-  color: #ffffff;
 }
 
 @media (max-width: 768px) {
@@ -96,6 +85,7 @@ star rail
 }
 </style>
 </head>
+
 
 <body>
   <header class="wiki-header">
