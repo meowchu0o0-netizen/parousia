@@ -207,7 +207,7 @@ star rail
   <h2>3.4.1. 음성</h2>
 
   <details>
-    <summary><b>상호작용</b></summary>
+    <summary><b>[상호작용]</b></summary>
     <table>
       <tr><th>첫 만남</th><td>저는 진리의 선구자가 아닌 선도자입니다. 부디 잊지 말아주세요.</td></tr>
       <tr><th>인사</th><td></td></tr>
