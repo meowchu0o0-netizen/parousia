@@ -98,7 +98,7 @@ star rail
       </div>
 
   <div class="skill highlight">
-        <h4>강화 필살기 : 정원에서 「내」가 수여한 공훈</h4>
+        <h4>강화 필살기 : 빛이 영면에 드는 빙법</h4>
         <p>에너지 180 소모, 바운스 추가 피해, 속도가 10% 감소</p>
       </div>
     </section>
@@ -121,7 +121,7 @@ star rail
   <h2>음성</h2>
 
   <details>
-    <summary>[상호작용]</summary>
+    <summary><b>[상호작용]</b></summary>
     <table>
       <tr><th>첫 만남</th><td>저는 진리의 선구자가 아닌 선도자입니다. 부디 잊지 말아주세요</td></tr>
       <tr><tH>인사</tH>th><td>
