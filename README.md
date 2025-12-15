@@ -152,12 +152,33 @@ star rail
   </details>
 
   <details>
-    <summary>전투</summary>
-    <ul>
-      <li>전투 시작</li>
-      <li>필살기</li>
-      <li>승리</li>
-    </ul>
+    <summary><b>[전투]</b></summary>
+    <table>
+      <tr><th>전투 시작 약점 격파</th><td>이제 편히 잠드시길</td></tr>
+      <tr><tH>전투 시작 위험 경보</tH>th><td>
+      <tr><tH>턴 시작 1</tH>th><td>
+      <tr><tH>턴 시작 2</tH>th><td>
+      <tr><tH>턴 대기</tH>th><td>
+      <tr><tH>전투 스킬 1</tH>th><td>
+      <tr><tH>전투 스킬 2</tH>th><td>
+      <tr><tH>약공격 피격</tH>th><td>
+      <tr><tH>강공격 피격</tH>th><td>
+      <tr><tH>필살기 활성화</tH>th><td>
+      <tr><tH>필살기 발동</tH>th><td>
+      <tr><tH>전투 불능</tH>th><td>
+      <tr><tH>전투 복귀</tH>th><td>
+      <tr><tH>HP 회복</tH>th><td>
+      <tr><tH>비술</tH>th><td>
+      <tr><tH>전투 승리</tH>th><td>
+      <tr><tH>전리품 오픈 1</tH>th><td>
+      <tr><tH>전리품 오픈 2</tH>th><td>
+      <tr><tH>진귀한 진리품 오픈</tH>th><td>
+      <tr><tH>수수께끼 풀이 성공 1</tH>th><td>
+      <tr><tH>수수께끼 풀이 성공 2</tH>th><td>
+      <tr><tH>적 발견</tH>th><td>
+      <tr><tH>도시로 복귀</tH>th><td>
+      </table>
+   
   </details>
 </section>
 
