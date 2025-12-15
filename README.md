@@ -61,21 +61,32 @@ star rail
   </aside>
 
 <nav class="toc">
+  .toc {
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 16px 20px;
+  max-width: 420px;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+}
   <ul>
-    <li><a href="#overview">1. 개요</a></li>
-    <li><a href="#media">2. 관련매체</a></li>
-    <li><a href="#media1">   2.1. 소개 동영상</a></li>
-    <li><a href="#ingame">3. 인게임 정보</a></li>
-    <li><a href="#attribute">   3.1. 속성</a></li>
-    <li><a href="#attribute">   3.2. 행적</a></li>
-    <li><a href="#attack">     3.2.1. 일반공격: 논증 방법</a></li>
-    <li><a href="#attack2">     3.2.2. 전투 스킬: 진리의 선도자</a></li>
-    <li><a href="#attack3">     3.2.3. 필살기: 가장 고결했던 진리의 잔향</a></li>
-    <li><a href="#attack4">     3.2.4. 강화 필살기: 빛이 영면에 드는 빙법</a></li>
-    <li><a href="#eidolon">   3.3. 성혼</a></li>
-    <li><a href="#information">   3.4. 정보</a></li>
-    <li><a href="#voice">   3.4.1. 음성</a></li>
-    <li><a href="#story">   3.4.2. 이야기</a></li>
+    <li class="lv1"><a href="#overview">1. 개요</a></li>
+
+<li class="lv1"><a href="#media">2. 관련매체</a></li>
+<li class="lv2"><a href="#media1">2.1. 소개 동영상</a></li>
+
+<li class="lv1"><a href="#ingame">3. 인게임 정보</a></li>
+<li class="lv2"><a href="#attribute">3.1. 속성</a></li>
+<li class="lv2"><a href="#attribute">3.2. 행적</a></li>
+
+<li class="lv3"><a href="#attack">3.2.1. 일반공격: 논증 방법</a></li>
+<li class="lv3"><a href="#attack2">3.2.2. 전투 스킬: 진리의 선도자</a></li>
+<li class="lv3"><a href="#attack3">3.2.3. 필살기: 가장 고결했던 진리의 잔향</a></li>
+<li class="lv3"><a href="#attack4">3.2.4. 강화 필살기: 빛이 영면에 드는 빙법</a></li>
+
+<li class="lv1"><a href="#eidolon">3.3. 성혼</a></li>
+<li class="lv1"><a href="#information">3.4. 정보</a></li>
+<li class="lv2"><a href="#voice">3.4.1. 음성</a></li>
+<li class="lv2"><a href="#story">3.4.2. 이야기</a></li>
   </ul>
 </nav>
 
