@@ -9,10 +9,16 @@ star rail
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 <style>
+/* ===== 인포박스 ===== */
 .infobox {
   width: 320px;
   float: right;
   margin: 0 0 20px 20px;
+}
+
+.infobox img {
+  width: 100%;
+  display: block;
 }
 
 .infobox-table {
@@ -28,6 +34,7 @@ star rail
   padding: 8px;
   width: 35%;
   border: 1px solid #dcdcdc;
+  font-weight: 600;
 }
 
 .infobox-table td {
@@ -37,22 +44,15 @@ star rail
   border: 1px solid #dcdcdc;
 }
 
-  @media (max-width: 768px) {
-  .infobox {
-    float: none;
-    width: 100%;
-    margin: 10px 0;
-  }
-}
-
+/* ===== TOC ===== */
 .toc {
+  clear: both;
   border: 1px solid rgba(255, 255, 255, 0.25);
   padding: 16px 20px;
   max-width: 420px;
   background-color: rgba(0, 0, 0, 0.25);
   border-radius: 4px;
   margin: 20px 0;
-  clear: both;
 }
 
 .toc ul {
@@ -61,9 +61,7 @@ star rail
   padding: 0;
 }
 
-.toc li {
-  margin: 4px 0;
-}
+.toc li { margin: 4px 0; }
 
 .toc .lv1 { padding-left: 0; }
 .toc .lv2 { padding-left: 16px; }
@@ -80,88 +78,53 @@ star rail
   text-decoration: underline;
 }
 
-.infobox {
-  border-collapse: collapse;
-  width: 320px;
-  font-size: 14px;
-  float: right;
-  margin: 0 0 20px 20px;
-}
-
-.infobox th {
-  background-color: #2b2f3a;
-  color: #cfd3ff;
-  text-align: left;
-  padding: 8px;
-  width: 35%;
-  border: 1px solid #dcdcdc;
-  font-weight: 600;
-}
-
-.infobox td {
-  background-color: #f8f9fa;
-  color: #000;
-  padding: 8px;
-  border: 1px solid #dcdcdc;
+/* ===== 모바일 ===== */
+@media (max-width: 768px) {
+  .infobox {
+    float: none;
+    width: 100%;
+    margin: 10px 0;
+  }
 }
 </style>
 </head>
 
 <body>
   <header class="wiki-header">
-    <h1>파루시아 <span class="en">parousia</span></h1>
-    <p class="subtitle">붕괴: 스타레일 플레이어블 캐릭터</p>
-  </header>
+  <h1>파루시아 <span class="en">parousia</span></h1>
+  <p class="subtitle">붕괴: 스타레일 플레이어블 캐릭터</p>
+</header>
 
-  <aside class="infobox">
-    <img src="img/parousia.png" alt="파루시아" />
-        .infobox th {
-        background-color: #2b2f3a;
-        color: #cfd3ff;
-        text-align: left;
-        padding: 8px;
-        width: 35%;
-        border: 1px solid #dcdcdc;
-        font-weight: 600;
-        }
-      .infobox td {
-   background-color: #f8f9fa;
-   color: #000000;
-   paddinf: 8px;
-   border: 1px solid #dcdcdc;
-   }
-    </style>
-    <table>
-      <tr><th>이름</th><td>파루시아</td></tr>
-      <tr><th>본명</th><td>휘포스타시스 파루시아</td></tr>
-      <tr><th>성별</th><td>여성</td></tr>
-      <tr><th>소속</th><td>차원 방랑자</td></tr>
-      <tr><th>속성</th><td>허수</td></tr>
-      <tr><th>운명의 길</th><td>지식</td></tr>
-      <tr><th>출시일</th><td>2025-11-11</td></tr>
-    </table>
-  </aside>
+<aside class="infobox">
+  <img src="img/parousia.png" alt="파루시아">
+
+  <table class="infobox-table">
+    <tr><th>이름</th><td>파루시아</td></tr>
+    <tr><th>본명</th><td>휘포스타시스 파루시아</td></tr>
+    <tr><th>성별</th><td>여성</td></tr>
+    <tr><th>소속</th><td>차원 방랑자</td></tr>
+    <tr><th>속성</th><td>허수</td></tr>
+    <tr><th>운명의 길</th><td>지식</td></tr>
+    <tr><th>출시일</th><td>2025-11-11</td></tr>
+  </table>
+</aside>
 
 <nav class="toc">
   <ul>
     <li class="lv1"><a href="#overview">1. 개요</a></li>
-
-<li class="lv1"><a href="#media">2. 관련매체</a></li>
-<li class="lv2"><a href="#media1">2.1. 소개 동영상</a></li>
-
-<li class="lv1"><a href="#ingame">3. 인게임 정보</a></li>
-<li class="lv2"><a href="#attribute">3.1. 속성</a></li>
-<li class="lv2"><a href="#attribute">3.2. 행적</a></li>
-
-<li class="lv3"><a href="#attack">3.2.1. 일반공격: 논증 방법</a></li>
-<li class="lv3"><a href="#attack2">3.2.2. 전투 스킬: 진리의 선도자</a></li>
-<li class="lv3"><a href="#attack3">3.2.3. 필살기: 가장 고결했던 진리의 잔향</a></li>
-<li class="lv3"><a href="#attack4">3.2.4. 강화 필살기: 빛이 영면에 드는 빙법</a></li>
-
-<li class="lv1"><a href="#eidolon">3.3. 성혼</a></li>
-<li class="lv1"><a href="#information">3.4. 정보</a></li>
-<li class="lv2"><a href="#voice">3.4.1. 음성</a></li>
-<li class="lv2"><a href="#story">3.4.2. 이야기</a></li>
+    <li class="lv1"><a href="#media">2. 관련매체</a></li>
+    <li class="lv2"><a href="#media1">2.1. 소개 동영상</a></li>
+    <li class="lv1"><a href="#ingame">3. 인게임 정보</a></li>
+    <li class="lv2"><a href="#attribute">3.1. 속성</a></li>
+    <li class="lv2"><a href="#attribute2">3.2. 행적</a></li>
+    <li class="lv3"><a href="#attack">3.2.1. 일반공격</a></li>
+    <li class="lv3"><a href="#attack2">3.2.2. 전투 스킬</a></li>
+    <li class="lv3"><a href="#attack3">3.2.3. 필살기</a></li>
+    <li class="lv3"><a href="#attack4">3.2.4. 강화 필살기</a></li>
+    <li class="lv1"><a href="#eidolon">3.3. 성혼</a></li>
+    <li class="lv1"><a href="#information">3.4. 정보</a></li>
+    <li class="lv2"><a href="#voice">3.4.1. 음성</a></li>
+    <li class="lv2"><a href="#story">3.4.2. 이야기</a></li>
   </ul>
 </nav>
 
