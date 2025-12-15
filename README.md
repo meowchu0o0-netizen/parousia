@@ -76,6 +76,7 @@ star rail
 
 .toc a:hover {
   text-decoration: underline;
+  color: #ffffff;
 }
 
 @media (max-width: 768px) {
