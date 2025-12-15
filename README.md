@@ -59,7 +59,8 @@ star rail
     font-weight: 600;
     margin-bottom: 8px;
     color: #ffffff;
-
+   }
+  
 .toc ul {
   list-style: none;
   margin: 0;
