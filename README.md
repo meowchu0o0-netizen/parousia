@@ -64,10 +64,16 @@ star rail
   <ul>
     <li><a href="#overview">1. 개요</a></li>
     <li><a href="#media">2. 관련매체</a></li>
+    <li><a href="#media1">   2.1. 소개 동영상</a></li>
     <li><a href="#ingame">3. 인게임 정보</a></li>
-    <li><a href="#eidolon">3. 성혼</a></li>
-    <li><a href="#story">4. 이야기</a></li>
-    <li><a href="#attribute">속성</a></li>
+    <li><a href="#attribute">   3.1. 속성</a></li>
+    <li><a href="#attribute">   3.2. 행적</a></li>
+    <li><a href="#attack">     3.2.1. 어쩌고ㅗㅇ라머ㅣ</a></li>
+    <li><a href="#attack2">     3.2.2. 어쩌고ㅗㅇ라머ㅣ</a></li>
+    <li><a href="#attack3">     3.2.3. 어쩌고ㅗㅇ라머ㅣ</a></li>
+    <li><a href="#attack4">     3.2.4. 어쩌고ㅗㅇ라머ㅣ</a></li>
+    <li><a href="#eidolon">   3.3. 성혼</a></li>
+    <li><a href="#story">   3.4.1 이야기</a></li>
     <li><a href="#overview">개요</a></li>
   </ul>
 </nav>
@@ -89,6 +95,7 @@ star rail
     
   <section id="media">
       <h2>2. 관련 매체</h2>
+  <section id="media1">
       <h3>2.2. 소개 동영상</h3>
       <div class="video">
         <iframe src="https://youtu.be/7R4OwF90NQI?si=YYtVOovTwl2hW6lb" title="Character PV"></iframe>
@@ -107,22 +114,26 @@ star rail
         <tr><td>-</td><td>-</td><td>-</td><td>-</td></tr>
       </table>
 
+  <section id="attack">
   <h4>3.2.1. 일반공격: 논증 방법</h4>
 <div class="skill">
       <p>지정된 단일 적에게 파루시아 hp의 n%만큼 허수 속성 피해를 가한다</p>
       </div>
 
-<h4>전투 스킬: 진리의 선도자</h4>
+<section id="attack2">
+  <h4>전투 스킬: 진리의 선도자</h4>
   <div class="skill">
     <p>모든 적에게 허수 속성 피해</p>
       </div>
 
-  <h4>필살기: 가장 고결했던 진리의 잔향</h4>
+  <section id="attack3">
+    <h4>필살기: 가장 고결했던 진리의 잔향</h4>
   <div class="skill">
       <p>에너지 90 소모, 전체 공격</p>
       </div>
 
-  <h4>강화 필살기: 빛이 영면에 드는 빙법</h4>
+  <section id="attack4">
+    <h4>강화 필살기: 빛이 영면에 드는 빙법</h4>
   <div class="skill highlight">
       <p>에너지 180 소모, 바운스 추가 피해, 속도가 10% 감소</p>
       </div>
