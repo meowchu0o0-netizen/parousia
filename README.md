@@ -92,6 +92,7 @@ main {
   <aside class="infobox">
     
 <aside class="infobox">
+  <div class="clear"></div>
   <img src="img/parousia.png" alt="파루시아">
 
   <table class="infobox-table">
