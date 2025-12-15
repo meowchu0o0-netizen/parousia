@@ -119,7 +119,15 @@ star rail
       <h2>음성</h2>
       <button onclick="toggle('voice-interact')">상호작용</button>
       <div id="voice-interact" class="fold">
-        <p>첫 만남 / 인사 / 작별 등</p>
+
+  <details>
+  <summary>펼치기</summary>
+
+<p>여기에 숨길 내용 작성</p>
+
+</details>
+
+첫 만남 / 인사 / 작별 등</p>
       </div>
 
   <button onclick="toggle('voice-battle')">전투</button>
