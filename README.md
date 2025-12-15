@@ -144,8 +144,7 @@ star rail
 
   <details>
     <summary><b>상호작용</b></summary>
-
-  <table>
+    <table>
       <tr><th>첫 만남</th><td>저는 진리의 선구자가 아닌 선도자입니다. 부디 잊지 말아주세요.</td></tr>
       <tr><th>인사</th><td></td></tr>
       <tr><th>작별</th><td></td></tr>
@@ -160,39 +159,39 @@ star rail
       <tr><th>캐릭터 최고 레벨</th><td></td></tr>
       <tr><th>행적 활성화</th><td></td></tr>
       <tr><th>파티 편성 뫄뫄</th><td></td></tr>
-      </table>
-      </details>  
-      </section>
+    </table>
+  </details>
 
   <details>
-  <summary><b>[전투]</b></summary>
-  <table>
-    <tr><th>전투 시작 약점 격파</th><td>이제 편히 잠드시길</td></tr>
-    <tr><th>전투 시작 위험 경보</th><td></td></tr>
-    <tr><th>턴 시작 1</th><td>ㅇㅇㅇ</td></tr>
-    <tr><th>턴 시작 2</th><td></td></tr>
-    <tr><th>턴 대기</th><td></td></tr>
-    <tr><th>전투 스킬 1</th><td></td></tr>
-    <tr><th>전투 스킬 2</th><td></td></tr>
-    <tr><th>약공격 피격</th><td></td></tr>
-    <tr><th>강공격 피격</th><td></td></tr>
-    <tr><th>필살기 활성화</th><td></td></tr>
-    <tr><th>필살기 발동</th><td></td></tr>
-    <tr><th>전투 불능</th><td></td></tr>
-    <tr><th>전투 복귀</th><td></td></tr>
-    <tr><th>HP 회복</th><td></td></tr>
-    <tr><th>비술</th><td></td></tr>
-    <tr><th>전투 승리</th><td></td></tr>
-    <tr><th>전리품 오픈 1</th><td></td></tr>
-    <tr><th>전리품 오픈 2</th><td></td></tr>
-    <tr><th>진귀한 전리품 오픈</th><td></td></tr>
-    <tr><th>수수께끼 풀이 성공 1</th><td></td></tr>
-    <tr><th>수수께끼 풀이 성공 2</th><td></td></tr>
-    <tr><th>적 발견</th><td></td></tr>
-    <tr><th>도시로 복귀</th><td></td></tr>
+    <summary><b>[전투]</b></summary>
+    <table>
+      <tr><th>전투 시작 약점 격파</th><td>이제 편히 잠드시길</td></tr>
+      <tr><th>전투 시작 위험 경보</th><td></td></tr>
+      <tr><th>턴 시작 1</th><td>ㅇㅇㅇ</td></tr>
+      <tr><th>턴 시작 2</th><td></td></tr>
+      <tr><th>턴 대기</th><td></td></tr>
+      <tr><th>전투 스킬 1</th><td></td></tr>
+      <tr><th>전투 스킬 2</th><td></td></tr>
+      <tr><th>약공격 피격</th><td></td></tr>
+      <tr><th>강공격 피격</th><td></td></tr>
+      <tr><th>필살기 활성화</th><td></td></tr>
+      <tr><th>필살기 발동</th><td></td></tr>
+      <tr><th>전투 불능</th><td></td></tr>
+      <tr><th>전투 복귀</th><td></td></tr>
+      <tr><th>HP 회복</th><td></td></tr>
+      <tr><th>비술</th><td></td></tr>
+      <tr><th>전투 승리</th><td></td></tr>
+      <tr><th>전리품 오픈 1</th><td></td></tr>
+      <tr><th>전리품 오픈 2</th><td></td></tr>
+      <tr><th>진귀한 전리품 오픈</th><td></td></tr>
+      <tr><th>수수께끼 풀이 성공 1</th><td></td></tr>
+      <tr><th>수수께끼 풀이 성공 2</th><td></td></tr>
+      <tr><th>적 발견</th><td></td></tr>
+      <tr><th>도시로 복귀</th><td></td></tr>
     </table>
-    </details>
-    </section>
+  </details>
+</section>
+
    
   <section id="story">
       <h2>이야기</h2>
