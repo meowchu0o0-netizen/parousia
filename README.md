@@ -66,6 +66,8 @@ star rail
     <li><a href="#ingame">인게임 정보</a></li>
     <li><a href="#eidolon">성혼</a></li>
     <li><a href="#story">이야기</a></li>
+    <li><a href="#attribute">속성</a></li>
+    <li><a href="#overview">개요</a></li>
   </ul>
 </nav>
 
@@ -73,7 +75,7 @@ star rail
   <main class="wiki-content">
     
   <section id="overview">
-      <h2>개요</h2>
+      <h2>1. 개요</h2>
       <blockquote>
         <p>「그대의 최초의 교파는 멸망했다」</p>
       </blockquote>
@@ -85,8 +87,8 @@ star rail
 
     
   <section id="media">
-      <h2>관련 매체</h2>
-      <h3>공식 영상</h3>
+      <h2>2. 관련 매체</h2>
+      <h3>2.2. 소개 동영상</h3>
       <div class="video">
         <iframe src="https://youtu.be/7R4OwF90NQI?si=YYtVOovTwl2hW6lb" title="Character PV"></iframe>
       </div>
@@ -97,8 +99,9 @@ star rail
   <section id="ingame">
       <h2>인게임 정보</h2>
 
-  <h3>기본 능력치</h3>
-      <table class="wiki-table">
+  <section id="attribute">
+    <h3>속성</h3>
+        <table class="wiki-table">
         <tr><th>HP</th><th>공격력</th><th>방어력</th><th>속도</th></tr>
         <tr><td>-</td><td>-</td><td>-</td><td>-</td></tr>
       </table>
