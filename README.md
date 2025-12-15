@@ -11,7 +11,9 @@ star rail
   
 <style>
   .wiki-content .wiki-blue {
-  color: #3366cc; !important
+  color: #3366cc !important;
+}
+
 }
   .wiki-content {
     clear: both;
