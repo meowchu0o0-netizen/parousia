@@ -22,8 +22,8 @@ star rail
   padding: 16px 20px;
   max-width: 420px;
   border-radius: 4px;
-  background-color: rgba(0, 0, 0, 0.25);
   margin: 20px 0;
+  background-color: transparent;
 }
 
 .toc ul {
