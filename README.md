@@ -18,7 +18,15 @@ star rail
 </head>
 <body>
 
-  
+  <nav class="toc">
+  <ul>
+    <li><a href="#overview">개요</a></li>
+    <li><a href="#ingame">인게임 정보</a></li>
+    <li><a href="#eidolon">성혼</a></li>
+    <li><a href="#story">이야기</a></li>
+  </ul>
+</nav>
+
   <header class="wiki-header">
     <h1>파루시아 <span class="en">parousia</span></h1>
     <p class="subtitle">붕괴: 스타레일 플레이어블 캐릭터</p>
