@@ -45,7 +45,7 @@ star rail
 
 .toc {
   clear: both;
-  border: 1px solid rgba(255, 255, 255, 0.25);
+  border: 2px solid #54595d;
   padding: 16px 20px;
   max-width: 420px;
   background-color: transparent;
