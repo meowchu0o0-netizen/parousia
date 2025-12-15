@@ -7,12 +7,13 @@ star rail
 <meta charset="UTF-8" />
 <title>파루시아</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-wiki-blue {
-color: #3366cc;
-}
 
   
 <style>
+  .wiki-blue {
+  color: #3366cc;
+}
+
 .infobox {
   width: 320px;
   float: right;
