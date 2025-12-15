@@ -13,6 +13,10 @@ star rail
 .wiki-content .wiki-blue {
   color: #3366cc !important;
 }
+  
+main {
+  display: flow-root;
+}
 
 .clear {
   clear: both;
@@ -83,7 +87,10 @@ star rail
   <h1>파루시아 <span class="en">parousia</span></h1>
   <p class="subtitle">붕괴: 스타레일 플레이어블 캐릭터</p>
 </header>
-
+  
+<main>
+  <aside class="infobox">
+    
 <aside class="infobox">
   <img src="img/parousia.png" alt="파루시아">
 
@@ -116,6 +123,9 @@ star rail
     <li class="lv2"><a href="#story">3.4.2. 이야기</a></li>
   </ul>
 </nav>
+</main>
+
+<footer class="wiki-footer">
 
 <div class="clear"></div>
     
@@ -279,5 +289,6 @@ star rail
   </footer>
 
   <script src="js/toggle.js"></script>
+  </footer>
 </body>
 </html>
