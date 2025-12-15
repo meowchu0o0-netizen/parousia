@@ -14,10 +14,10 @@ star rail
   color: #3366cc !important;
 }
 
+.wiki-content {
+  clear: both;
 }
-  .wiki-content {
-    clear: both;
-}
+
 
 
 .infobox {
