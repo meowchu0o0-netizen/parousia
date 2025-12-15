@@ -9,7 +9,6 @@ star rail
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 <style>
-/* ===== 인포박스 ===== */
 .infobox {
   width: 320px;
   float: right;
@@ -44,7 +43,6 @@ star rail
   border: 1px solid #dcdcdc;
 }
 
-/* ===== TOC ===== */
 .toc {
   clear: both;
   border: 1px solid rgba(255, 255, 255, 0.25);
@@ -72,13 +70,14 @@ star rail
   color: #e6e6e6;
   text-decoration: none;
   font-size: 14px;
+  display: inline-blodck;
+  line-height: 1.4;
 }
 
 .toc a:hover {
   text-decoration: underline;
 }
 
-/* ===== 모바일 ===== */
 @media (max-width: 768px) {
   .infobox {
     float: none;
