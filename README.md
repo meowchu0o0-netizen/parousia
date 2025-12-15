@@ -148,8 +148,7 @@ star rail
       <tr><tH>파티 편성 뫄뫄</tH>th><td>
       <tr><tH>파티 편성 뫄뫄</tH>th><td>
       <tr><tH>파티 편성 뫄뫄</tH>th><td>
-               
-    </table>
+      </table>
   </details>
 
   <details>
