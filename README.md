@@ -77,12 +77,11 @@ main {
 }
 
 .toc li {
-  list-style: none;
   margin: 4px 0;
   line-height: 1.6;
 }
 
-  .toc a {
+.toc a {
   text-decoration: none;
   color: #3366cc;
 }
