@@ -62,10 +62,11 @@ star rail
 
 <nav class="toc">
   <ul>
-    <li><a href="#overview">개요</a></li>
-    <li><a href="#ingame">인게임 정보</a></li>
-    <li><a href="#eidolon">성혼</a></li>
-    <li><a href="#story">이야기</a></li>
+    <li><a href="#overview">1. 개요</a></li>
+    <li><a href="#media">2. 관련매체</a></li>
+    <li><a href="#ingame">3. 인게임 정보</a></li>
+    <li><a href="#eidolon">3. 성혼</a></li>
+    <li><a href="#story">4. 이야기</a></li>
     <li><a href="#attribute">속성</a></li>
     <li><a href="#overview">개요</a></li>
   </ul>
@@ -106,25 +107,24 @@ star rail
         <tr><td>-</td><td>-</td><td>-</td><td>-</td></tr>
       </table>
 
-  <h3>스킬</h3>
+  <h4>3.2.1. 일반공격: 논증 방법</h4>
 <div class="skill">
-        <h4>일반 공격 : 논증 방법</h4>
-        <p>지정된 단일 적에게 파루시아 hp의 n%만큼 허수 속성 피해를 가한다</p>
+      <p>지정된 단일 적에게 파루시아 hp의 n%만큼 허수 속성 피해를 가한다</p>
       </div>
 
+<h4>전투 스킬: 진리의 선도자</h4>
   <div class="skill">
-        <h4>전투 스킬 : 진리의 선도자</h4>
-        <p>모든 적에게 허수 속성 피해</p>
+    <p>모든 적에게 허수 속성 피해</p>
       </div>
 
+  <h4>필살기: 가장 고결했던 진리의 잔향</h4>
   <div class="skill">
-        <h4>필살기 : 가장 고결했던 진리의 잔향</h4>
-        <p>에너지 90 소모, 전체 공격</p>
+      <p>에너지 90 소모, 전체 공격</p>
       </div>
 
+  <h4>강화 필살기: 빛이 영면에 드는 빙법</h4>
   <div class="skill highlight">
-        <h4>강화 필살기 : 빛이 영면에 드는 빙법</h4>
-        <p>에너지 180 소모, 바운스 추가 피해, 속도가 10% 감소</p>
+      <p>에너지 180 소모, 바운스 추가 피해, 속도가 10% 감소</p>
       </div>
     </section>
 
