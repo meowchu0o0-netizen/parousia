@@ -70,6 +70,12 @@ main {
   margin: 20px 0;
 }
 
+  .toc ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+
 @media (max-width: 768px) {
   .infobox {
     float: none;
