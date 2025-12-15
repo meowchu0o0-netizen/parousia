@@ -16,6 +16,64 @@ star rail
     margin: 10px 0;
   }
 }
+  .toc {
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  padding: 16px 20px;
+  max-width: 420px;
+  background-color: rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+  margin: 20px 0;
+}
+
+.toc ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.toc li {
+  margin: 4px 0;
+}
+
+.toc .lv1 { padding-left: 0; }
+.toc .lv2 { padding-left: 16px; }
+.toc .lv3 { padding-left: 32px; }
+.toc .lv4 { padding-left: 48px; }
+
+.toc a {
+  color: #e6e6e6;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.toc a:hover {
+  text-decoration: underline;
+}
+
+.infobox {
+  border-collapse: collapse;
+  width: 320px;
+  font-size: 14px;
+  float: right;
+  margin: 0 0 20px 20px;
+}
+
+.infobox th {
+  background-color: #2b2f3a;
+  color: #cfd3ff;
+  text-align: left;
+  padding: 8px;
+  width: 35%;
+  border: 1px solid #dcdcdc;
+  font-weight: 600;
+}
+
+.infobox td {
+  background-color: #f8f9fa;
+  color: #000;
+  padding: 8px;
+  border: 1px solid #dcdcdc;
+}
 </style>
 </head>
 <body>
