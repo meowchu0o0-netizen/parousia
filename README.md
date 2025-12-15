@@ -73,10 +73,38 @@ main {
 .toc ul {
   list-style: none;
   padding-left: 0;
+  margin: 0;
 }
 
 .toc li {
   list-style: none;
+  margin: 4px 0;
+  line-height: 1.6;
+}
+
+  .toc a {
+  text-decoration: none;
+  color: #3366cc;
+}
+
+.toc a:hover {
+  text-decoration: underline;
+}
+
+.toc .lv1 {
+  margin-left: 0;
+}
+
+.toc .lv2 {
+  margin-left: 20px;
+}
+
+.toc .lv3 {
+  margin-left: 40px;
+}
+
+.toc .lv4 {
+  margin-left: 60px;
 }
 
 
