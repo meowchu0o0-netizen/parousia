@@ -35,11 +35,12 @@ star rail
         }
       .infobox th {
         background-color: #2b2f3a;
-        color: #ffffff;
+        color: #cfd3ff;
         text-align: left;
         padding: 8px;
         width: 35%;
         border: 1px solid #dcdcdc;
+        font-weight: 600;
         }
       .infobox td {
    background-color: #f8f9fa;
