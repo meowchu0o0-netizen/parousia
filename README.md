@@ -17,6 +17,11 @@ star rail
 .clear {
   clear: both;
 }
+  .wiki-table {
+  width: 100%;
+  clear: both;
+}
+
 
 .infobox {
   width: 320px;
@@ -111,6 +116,7 @@ star rail
     <li class="lv2"><a href="#story">3.4.2. 이야기</a></li>
   </ul>
 </nav>
+
 <div class="clear"></div>
     
   <section id="overview">
