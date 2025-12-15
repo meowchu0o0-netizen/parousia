@@ -68,9 +68,6 @@ star rail
     margin: 10px 0;
   }
 }
-  .wiki-content > section:first-child {
-  clear: both;
-}
 
 </style>
 </head>
@@ -114,9 +111,7 @@ star rail
     <li class="lv2"><a href="#story">3.4.2. 이야기</a></li>
   </ul>
 </nav>
-
-
-  <main class="wiki-content">
+<div class="clear"></div>
     
   <section id="overview">
       <h2><span class="wiki-blue">1.</span> 개요</h2>
