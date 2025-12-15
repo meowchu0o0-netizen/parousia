@@ -10,15 +10,13 @@ star rail
 
   
 <style>
- .wiki-content .wiki-blue {
+.wiki-content .wiki-blue {
   color: #3366cc !important;
 }
 
 .wiki-content {
   clear: both;
 }
-
-
 
 .infobox {
   width: 320px;
@@ -60,31 +58,7 @@ star rail
   padding: 16px 20px;
   max-width: 420px;
   background-color: transparent;
-  border-radius: 1px;
   margin: 20px 0;
-}
-
-.toc ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.toc li { margin: 4px 0; }
-
-.toc .lv1 { padding-left: 0; }
-.toc .lv2 { padding-left: 16px; }
-.toc .lv3 { padding-left: 32px; }
-.toc .lv4 { padding-left: 48px; }
-
-.toc a {
-  color: #3366cc;
-  text-decoration: none;
-  font-size: 14px;
-}
-
-.toc a:hover {
-  text-decoration: underline;
 }
 
 @media (max-width: 768px) {
