@@ -14,7 +14,7 @@ star rail
   color: #3366cc; !important
 }
   .wiki-content {
-  overflow: hidden;
+  overflow: clear;
 }
 
 
