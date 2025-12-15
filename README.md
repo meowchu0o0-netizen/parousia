@@ -9,14 +9,7 @@ star rail
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 <style>
-@media (max-width: 768px) {
-  .infobox {
-    float: none;
-    width: 100%;
-    margin: 10px 0;
-  }
-}
-  .toc {
+.toc {
   border: 1px solid rgba(255, 255, 255, 0.25);
   padding: 16px 20px;
   max-width: 420px;
@@ -49,34 +42,8 @@ star rail
 .toc a:hover {
   text-decoration: underline;
 }
-
-.infobox {
-  border-collapse: collapse;
-  width: 320px;
-  font-size: 14px;
-  float: right;
-  margin: 0 0 20px 20px;
-}
-
-.infobox th {
-  background-color: #2b2f3a;
-  color: #cfd3ff;
-  text-align: left;
-  padding: 8px;
-  width: 35%;
-  border: 1px solid #dcdcdc;
-  font-weight: 600;
-}
-
-.infobox td {
-  background-color: #f8f9fa;
-  color: #000;
-  padding: 8px;
-  border: 1px solid #dcdcdc;
-}
 </style>
 </head>
-<body>
 
   <header class="wiki-header">
     <h1>파루시아 <span class="en">parousia</span></h1>
@@ -139,38 +106,6 @@ star rail
 <li class="lv2"><a href="#voice">3.4.1. 음성</a></li>
 <li class="lv2"><a href="#story">3.4.2. 이야기</a></li>
   </ul>
-  .toc {
-  border: 1px solid rgba(255, 255, 255, 0.25);
-  padding: 16px 20px;
-  max-width: 420px;
-  background-color: rgba(0, 0, 0, 0.25);
-  border-radius: 4px;
-}
-
-.toc ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.toc li {
-  margin: 4px 0;
-}
-
-.toc .lv1 { padding-left: 0; }
-.toc .lv2 { padding-left: 16px; }
-.toc .lv3 { padding-left: 32px; }
-.toc .lv4 { padding-left: 48px; }
-
-.toc a {
-  color: #e6e6e6;
-  text-decoration: none;
-  font-size: 14px;
-}
-
-.toc a:hover {
-  text-decoration: underline;
-}
 </nav>
 
 
