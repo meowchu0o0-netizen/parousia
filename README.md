@@ -1,5 +1,6 @@
 # parousia
 star rail
+
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -7,6 +8,14 @@ star rail
 <title>파루시아 </title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="css/wiki.css" />
+  @media (max-width: 768px) {
+  .infobox {
+    float: none;
+    width: 100%;
+    margin: 10px 0;
+  }
+}
+
 </head>
 <body>
 
@@ -141,7 +150,7 @@ star rail
 
 
   <footer class="wiki-footer">
-    <p>Fan-made wiki page · Honkai: Star Rail</p>
+    <p>NOT Hoyoverse /Fan made wiki page · Honkai: Star Rail</p>
   </footer>
 
   <script src="js/toggle.js"></script>
