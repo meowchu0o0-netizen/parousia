@@ -61,13 +61,6 @@ star rail
   </aside>
 
 <nav class="toc">
-  .toc {
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  padding: 16px 20px;
-  max-width: 420px;
-  background-color: rgba(0, 0, 0, 0.2);
-  border-radius: 4px;
-}
   <ul>
     <li class="lv1"><a href="#overview">1. 개요</a></li>
 
@@ -88,6 +81,38 @@ star rail
 <li class="lv2"><a href="#voice">3.4.1. 음성</a></li>
 <li class="lv2"><a href="#story">3.4.2. 이야기</a></li>
   </ul>
+  .toc {
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  padding: 16px 20px;
+  max-width: 420px;
+  background-color: rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+}
+
+.toc ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.toc li {
+  margin: 4px 0;
+}
+
+.toc .lv1 { padding-left: 0; }
+.toc .lv2 { padding-left: 16px; }
+.toc .lv3 { padding-left: 32px; }
+.toc .lv4 { padding-left: 48px; }
+
+.toc a {
+  color: #e6e6e6;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.toc a:hover {
+  text-decoration: underline;
+}
 </nav>
 
 
