@@ -157,7 +157,7 @@ main {
   <section id="media1">
       <h3><span class="wiki-blue">2.1.</span> 소개 동영상</h3>
       <div class="video">
-        <iframe src="https://youtu.be/7R4OwF90NQI?si=YYtVOovTwl2hW6lb" title="Character PV"></iframe>
+        <iframe src="https://youtu.be/7R4OwF90NQI?si=YYtVOovTwl2hW6lb](https://youtu.be/Sgi13FRhGgA?si=4mzC8OD2cAMeWI9y" title="Character PV"></iframe>
       </div>
     </section>
 
