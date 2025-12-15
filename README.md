@@ -10,13 +10,12 @@ star rail
 </head>
 <body>
 
-  <!-- ===== 헤더 ===== -->
+  
   <header class="wiki-header">
     <h1>파루시아 <span class="en">parousia</span></h1>
     <p class="subtitle">붕괴: 스타레일 플레이어블 캐릭터</p>
   </header>
 
-  <!-- ===== 인포박스 ===== -->
   <aside class="infobox">
     <img src="img/parousia.png" alt="파루시아" />
     <table>
@@ -30,7 +29,7 @@ star rail
     </table>
   </aside>
 
-  <!-- ===== 본문 ===== -->
+
   <main class="wiki-content">
 
     <!-- 개요 -->
@@ -44,7 +43,8 @@ star rail
         </p>
     </section>
 
-    <!-- 관련 매체 -->
+
+    
     <section id="media">
       <h2>관련 매체</h2>
       <h3>공식 영상</h3>
@@ -53,7 +53,8 @@ star rail
       </div>
     </section>
 
-    <!-- 인게임 정보 -->
+
+   
     <section id="ingame">
       <h2>인게임 정보</h2>
 
@@ -86,7 +87,7 @@ star rail
       </div>
     </section>
 
-    <!-- 성혼 -->
+   
     <section id="eidolon">
       <h2>성혼</h2>
       <ol>
@@ -99,7 +100,7 @@ star rail
       </ol>
     </section>
 
-    <!-- 음성 -->
+   
     <section id="voice">
       <h2>음성</h2>
       <button onclick="toggle('voice-interact')">상호작용</button>
@@ -113,7 +114,7 @@ star rail
       </div>
     </section>
 
-    <!-- 스토리 -->
+   
     <section id="story">
       <h2>이야기</h2>
 
@@ -140,7 +141,7 @@ star rail
 
   </main>
 
-  <!-- ===== 푸터 ===== -->
+
   <footer class="wiki-footer">
     <p>Fan-made wiki page · Honkai: Star Rail</p>
   </footer>
