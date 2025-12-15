@@ -9,7 +9,35 @@ star rail
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 <style>
-@media (max-width: 768px) {
+.infobox {
+  width: 320px;
+  float: right;
+  margin: 0 0 20px 20px;
+}
+
+.infobox-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+.infobox-table th {
+  background-color: #2b2f3a;
+  color: #cfd3ff;
+  text-align: left;
+  padding: 8px;
+  width: 35%;
+  border: 1px solid #dcdcdc;
+}
+
+.infobox-table td {
+  background-color: #f8f9fa;
+  color: #000;
+  padding: 8px;
+  border: 1px solid #dcdcdc;
+}
+
+  @media (max-width: 768px) {
   .infobox {
     float: none;
     width: 100%;
@@ -86,13 +114,7 @@ star rail
 
   <aside class="infobox">
     <img src="img/parousia.png" alt="파루시아" />
-    <style>
-      .infobox {
-        border-collapse: collapse;
-        width: 320px;
-        font-size:14px;
-        }
-      .infobox th {
+        .infobox th {
         background-color: #2b2f3a;
         color: #cfd3ff;
         text-align: left;
