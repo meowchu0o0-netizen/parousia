@@ -9,6 +9,14 @@ star rail
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 <style>
+@media (max-width: 768px) {
+  .infobox {
+    float: none;
+    width: 100%;
+    margin: 10px 0;
+  }
+}
+
 .toc {
   border: 1px solid rgba(255, 255, 255, 0.25);
   padding: 16px 20px;
@@ -42,9 +50,35 @@ star rail
 .toc a:hover {
   text-decoration: underline;
 }
+
+.infobox {
+  border-collapse: collapse;
+  width: 320px;
+  font-size: 14px;
+  float: right;
+  margin: 0 0 20px 20px;
+}
+
+.infobox th {
+  background-color: #2b2f3a;
+  color: #cfd3ff;
+  text-align: left;
+  padding: 8px;
+  width: 35%;
+  border: 1px solid #dcdcdc;
+  font-weight: 600;
+}
+
+.infobox td {
+  background-color: #f8f9fa;
+  color: #000;
+  padding: 8px;
+  border: 1px solid #dcdcdc;
+}
 </style>
 </head>
 
+<body>
   <header class="wiki-header">
     <h1>파루시아 <span class="en">parousia</span></h1>
     <p class="subtitle">붕괴: 스타레일 플레이어블 캐릭터</p>
