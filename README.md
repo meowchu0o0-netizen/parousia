@@ -117,26 +117,27 @@ star rail
     </section>
 
    
-  <section id="voice">
-      <h2>음성</h2>
-      <button onclick="toggle('voice-interact')">상호작용</button>
-      <div id="voice-interact" class="fold">
+<section id="voice">
+  <h2>음성</h2>
 
   <details>
-  <summary>펼치기</summary>
+    <summary>상호작용</summary>
+    <ul>
+      <li>첫 만남</li>
+      <li>인사</li>
+      <li>작별</li>
+    </ul>
+  </details>
 
-<p>여기에 숨길 내용 작성</p>
-
-</details>
-
-첫 만남 / 인사 / 작별 등</p>
-      </div>
-
-  <button onclick="toggle('voice-battle')">전투</button>
-      <div id="voice-battle" class="fold">
-        <p>전투 시작 / 필살기 / 승리</p>
-      </div>
-    </section>
+  <details>
+    <summary>전투</summary>
+    <ul>
+      <li>전투 시작</li>
+      <li>필살기</li>
+      <li>승리</li>
+    </ul>
+  </details>
+</section>
 
    
   <section id="story">
