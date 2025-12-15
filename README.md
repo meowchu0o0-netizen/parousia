@@ -67,7 +67,6 @@ star rail
 .toc .lv4 { padding-left: 48px; }
 
 .toc a {
-  color: #e6e6e6;
   text-decoration: none;
   font-size: 14px;
 }
