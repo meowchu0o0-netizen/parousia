@@ -143,66 +143,56 @@ star rail
   <h2>음성</h2>
 
   <details>
-    <summary><b>[상호작용]</b></summary>
-    <table>
-      <tr><th>첫 만남</th><td>저는 진리의 선구자가 아닌 선도자입니다. 부디 잊지 말아주세요</td></tr>
-      <tr><tH>인사</tH>th><td></td></td></tr>
-      <tr><tH>작별</tH>th><td></td></tr>
-      <tr><tH>자신에 대해</tH>th><td></td></tr>
-      <tr><tH>잡담</tH>th><td></td></tr>
-      <tr><tH>취미</tH>th><td></td></tr>
-      <tr><tH>고민</tH>th><td></td></tr>
-      <tr><tH>공유</tH>th><td></td></tr>
-      <tr><tH>견문</tH>th><td></td></tr>
-      <tr><tH>뫄뫄에 대해</tH>th><td></td></tr>
-      <tr><tH>뫄뫄에 대해</tH>th><td></td></tr>
-      <tr><tH>뫄뫄에 대해</tH>th><td></td></tr>
-      <tr><tH>뫄뫄에 대해</tH>th><td></td></tr>
-      <tr><tH>뫄뫄에 대해</tH>th><td></td></tr>
-      <tr><tH>뫄뫄에 대해</tH>th><td></td></tr>
-      <tr><tH>성혼 활성화</tH>th><td></td></tr>
-      <tr><tH>캐릭터 승급</tH>th><td></td></tr>
-      <tr><tH>캐릭터 최고 레벨</tH>th></td><td></tr>
-      <tr><tH>행적 활성화</tH>th><td></td></tr>
-      <tr><tH>파티 편성 뫄뫄</tH>th><td></td></tr>
-      <tr><tH>파티 편성 뫄뫄</tH>th><td></td></tr>
-      <tr><tH>파티 편성 뫄뫄</tH>th><td></td></tr>
-      <tr><tH>파티 편성 뫄뫄</tH>th><td></td></tr>
-      <tr><tH>파티 편성 뫄뫄</tH>th><td></td></tr>
-      <tr><tH>파티 편성 뫄뫄</tH>th><td></td></tr>
+    <summary><b>상호작용</b></summary>
+
+  <table>
+      <tr><th>첫 만남</th><td>저는 진리의 선구자가 아닌 선도자입니다. 부디 잊지 말아주세요.</td></tr>
+      <tr><th>인사</th><td></td></tr>
+      <tr><th>작별</th><td></td></tr>
+      <tr><th>자신에 대해</th><td></td></tr>
+      <tr><th>잡담</th><td></td></tr>
+      <tr><th>취미</th><td></td></tr>
+      <tr><th>고민</th><td></td></tr>
+      <tr><th>공유</th><td></td></tr>
+      <tr><th>권유</th><td></td></tr>
+      <tr><th>성흔 활성화</th><td></td></tr>
+      <tr><th>캐릭터 승급</th><td></td></tr>
+      <tr><th>캐릭터 최고 레벨</th><td></td></tr>
+      <tr><th>행적 활성화</th><td></td></tr>
+      <tr><th>파티 편성 뫄뫄</th><td></td></tr>
       </table>
-  </details>
-</section>
+      </details>  
+      </section>
 
   <details>
-    <summary><b>[전투]</b></summary>
-    <table>
-      <tr><th>전투 시작 약점 격파</th><td>이제 편히 잠드시길</td></tr>
-      <tr><tH>전투 시작 위험 경보</tH>th><td></tr>
-      <tr><tH>턴 시작 1</tH>th><td>ㅇㅇㅇ</td></tr>
-      <tr><tH>턴 시작 2</tH>th><td></td></tr>
-      <tr><tH>턴 대기</tH>th><td></td></tr>
-      <tr><tH>전투 스킬 1</tH>th><td></td></tr>
-      <tr><tH>전투 스킬 2</tH>th><td></td></tr>
-      <tr><tH>약공격 피격</tH>th><td></td></tr>
-      <tr><tH>강공격 피격</tH>th><td></td></tr>
-      <tr><tH>필살기 활성화</tH>th><td></td></tr>
-      <tr><tH>필살기 발동</tH>th><td></td></tr>
-      <tr><tH>전투 불능</tH>th><td></td></tr>
-      <tr><tH>전투 복귀</tH>th><td></td></tr>
-      <tr><tH>HP 회복</tH>th><td></td></tr>
-      <tr><tH>비술</tH>th><td></td></tr>
-      <tr><tH>전투 승리</tH>th><td></td></tr>
-      <tr><tH>전리품 오픈 1</tH>th><td></td></tr>
-      <tr><tH>전리품 오픈 2</tH>th><td></td></tr>
-      <tr><tH>진귀한 진리품 오픈</tH>th><td></td></tr>
-      <tr><tH>수수께끼 풀이 성공 1</tH>th><td></td></tr>
-      <tr><tH>수수께끼 풀이 성공 2</tH>th><td></td></tr>
-      <tr><tH>적 발견</tH>th><td></td></tr>
-      <tr><tH>도시로 복귀</tH>th><td></td></tr>
-      </table>
-  </details>
-</section>
+  <summary><b>[전투]</b></summary>
+  <table>
+    <tr><th>전투 시작 약점 격파</th><td>이제 편히 잠드시길</td></tr>
+    <tr><th>전투 시작 위험 경보</th><td></td></tr>
+    <tr><th>턴 시작 1</th><td>ㅇㅇㅇ</td></tr>
+    <tr><th>턴 시작 2</th><td></td></tr>
+    <tr><th>턴 대기</th><td></td></tr>
+    <tr><th>전투 스킬 1</th><td></td></tr>
+    <tr><th>전투 스킬 2</th><td></td></tr>
+    <tr><th>약공격 피격</th><td></td></tr>
+    <tr><th>강공격 피격</th><td></td></tr>
+    <tr><th>필살기 활성화</th><td></td></tr>
+    <tr><th>필살기 발동</th><td></td></tr>
+    <tr><th>전투 불능</th><td></td></tr>
+    <tr><th>전투 복귀</th><td></td></tr>
+    <tr><th>HP 회복</th><td></td></tr>
+    <tr><th>비술</th><td></td></tr>
+    <tr><th>전투 승리</th><td></td></tr>
+    <tr><th>전리품 오픈 1</th><td></td></tr>
+    <tr><th>전리품 오픈 2</th><td></td></tr>
+    <tr><th>진귀한 전리품 오픈</th><td></td></tr>
+    <tr><th>수수께끼 풀이 성공 1</th><td></td></tr>
+    <tr><th>수수께끼 풀이 성공 2</th><td></td></tr>
+    <tr><th>적 발견</th><td></td></tr>
+    <tr><th>도시로 복귀</th><td></td></tr>
+    </table>
+    </details>
+    </section>
    
   <section id="story">
       <h2>이야기</h2>
