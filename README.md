@@ -121,12 +121,35 @@ star rail
   <h2>음성</h2>
 
   <details>
-    <summary>상호작용</summary>
-    <ul>
-      <li>첫 만남</li>
-      <li>인사</li>
-      <li>작별</li>
-    </ul>
+    <summary>[상호작용]</summary>
+    <table>
+      <tr><th>첫 만남</th><td>저는 진리의 선구자가 아닌 선도자입니다. 부디 잊지 말아주세요</td></tr>
+      <tr><tH>인사</tH>th><td>
+      <tr><tH>작별</tH>th><td>
+      <tr><tH>자신에 대해</tH>th><td>
+      <tr><tH>잡담</tH>th><td>
+      <tr><tH>취미</tH>th><td>
+      <tr><tH>고민</tH>th><td>
+      <tr><tH>공유</tH>th><td>
+      <tr><tH>견문</tH>th><td>
+      <tr><tH>뫄뫄에 대해</tH>th><td>
+      <tr><tH>뫄뫄에 대해</tH>th><td>
+      <tr><tH>뫄뫄에 대해</tH>th><td>
+      <tr><tH>뫄뫄에 대해</tH>th><td>
+      <tr><tH>뫄뫄에 대해</tH>th><td>
+      <tr><tH>뫄뫄에 대해</tH>th><td>
+      <tr><tH>성혼 활성화</tH>th><td>
+      <tr><tH>캐릭터 승급</tH>th><td>
+      <tr><tH>캐릭터 최고 레벨</tH>th><td>
+      <tr><tH>행적 활성화</tH>th><td>
+      <tr><tH>파티 편성 뫄뫄</tH>th><td>
+      <tr><tH>파티 편성 뫄뫄</tH>th><td>
+      <tr><tH>파티 편성 뫄뫄</tH>th><td>
+      <tr><tH>파티 편성 뫄뫄</tH>th><td>
+      <tr><tH>파티 편성 뫄뫄</tH>th><td>
+      <tr><tH>파티 편성 뫄뫄</tH>th><td>
+               
+    </table>
   </details>
 
   <details>
