@@ -70,10 +70,15 @@ main {
   margin: 20px 0;
 }
 
-  .toc ul {
+.toc ul {
   list-style: none;
   padding-left: 0;
 }
+
+.toc li {
+  list-style: none;
+}
+
 
 
 @media (max-width: 768px) {
