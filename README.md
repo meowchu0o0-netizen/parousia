@@ -7,7 +7,6 @@ star rail
 <meta charset="UTF-8" />
 <title>파루시아 </title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="css/wiki.css" />
   @media (max-width: 768px) {
   .infobox {
     float: none;
@@ -57,7 +56,7 @@ star rail
       <h2>관련 매체</h2>
       <h3>공식 영상</h3>
       <div class="video">
-        <iframe src="" title="Character PV"></iframe>
+        <iframe src="https://youtu.be/7R4OwF90NQI?si=YYtVOovTwl2hW6lb" title="Character PV"></iframe>
       </div>
     </section>
 
