@@ -300,7 +300,9 @@ main {
             때로는 신화적 언어나 감성적 언어를 더 많이 선택해야할 때도 있더군요.
           </td>
         </tr>
-        <tr><th>성흔 활성화</th><td></td></tr>
+        <tr><th>아젠티에 대해</th><td>의</td></tr>
+        <tr><th>성흔 활성화</th><td>의</td></tr>
+        <tr><th>성흔 활성화</th><td>의</td></tr>
         <tr><th>캐릭터 승급</th><td></td></tr>
         <tr><th>캐릭터 최고 레벨</th><td></td></tr>
         <tr><th>행적 활성화</th><td></td></tr>
