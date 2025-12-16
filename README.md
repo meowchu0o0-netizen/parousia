@@ -383,7 +383,7 @@ main {
 
 
   <footer class="wiki-footer">
-    <p>NOT Hoyoverse /Fan made wiki page · Honkai: Star Rail</p>
+    <p>parousia · Honkai: Star Rail</p>
   </footer>
 
   <script src="js/toggle.js"></script>
