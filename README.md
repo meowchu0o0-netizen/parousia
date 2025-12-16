@@ -1,5 +1,5 @@
 # parousia
-1. <style> 태그 건들지 마세요!
+1. < style> 태그 건들지 마세요!
 2. [글자] 부분 채워주시면 됩니다.
 3. wiki-blue color, infobox table th color 변경 가능합니다.
 4. 오류, 디버그 생겨도 도움 안 드립니다...
