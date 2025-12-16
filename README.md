@@ -135,6 +135,18 @@ main {
   <img src="img/parousia.png" alt="파루시아">
 
   <table class="infobox-table">
+    
+  <tr class="infobox-title">
+      <th colspan="2">
+        파루시아<br>
+        <span class="sub">Parousia</span>
+      </th>
+    </tr>
+    <tr class="infobox-image">
+      <td colspan="2">
+        <img src="이미지주소.jpg" alt="파루시아">
+      </td>
+    </tr>
     <tr><th>이름</th><td>파루시아</td></tr>
     <tr><th>본명</th><td>휘포스타시스 파루시아</td></tr>
     <tr><th>성별</th><td>여성</td></tr>
