@@ -129,12 +129,9 @@ main {
   
 <main>
   <aside class="infobox">
-    
-<aside class="infobox">
   <div class="clear"></div>
 
   <table class="infobox-table">
-    
   <tr class="infobox-title">
       <th colspan="2">
         <center>파루시아</center><br>
