@@ -1,7 +1,7 @@
 # parousia
 1. < style> 태그 건들지 마세요!
 2. [글자] 부분 채워주시면 됩니다.
-3. wiki-blue color, infobox table th color 변경 가능합니다.
+3. wiki-blue color, #9eecff(기본적으로 세팅된 색상) 변경 가능합니다.
 4. 오류, 디버그 생겨도 도움 안 드립니다...
 5. 1차 분들 제외 맨 아래 출처 지우지 말아주세요.
 
@@ -20,7 +20,6 @@
 main {
   max-width: 100%;
 }
-
 .infobox {
   width: 320px;
   margin: 0 0 20px 0;
@@ -39,7 +38,7 @@ main {
 
 .infobox-table th {
   background-color: #2b2f3a;
-  color: #cfd3ff;
+  color: #9eecff;
   text-align: left;
   padding: 8px;
   width: 35%;
@@ -107,14 +106,13 @@ main {
   <table class="infobox-table">
     <tr class="infobox-title">
       <th colspan="2">
-         <img src="이미지주소.jpg" alt="파루시아">
         <center>파루시아</center><br>
         <span class="sub"><center>Parousia</center></span>
       </th>
     </tr>
     <tr class="infobox-image">
       <td colspan="2">
-  
+  <img src="이미지주소.jpg" alt="파루시아">
   </td>
     </tr>
     <tr><th>이름</th><td>파루시아</td></tr>
@@ -168,14 +166,14 @@ main {
    
   <section id="ingame">
       <h2><span class="wiki-blue">3.</span> 인게임 정보</h2>
-
+<img src="이미지주소.jpg" alt="파루시아">
 <h3>파루시아</h3>
 
 <div style="
   display: inline-block;
   margin: 6px 0 16px 0;
   padding: 6px 14px;
-  background-color: #7b82c6;
+  background-color: #9eecff;
   color: #ffffff;
   border-radius: 8px;
   font-weight: 600;
@@ -184,30 +182,123 @@ main {
 </div>
 
 <aside class="infobox">
-   <img src="이미지주소.jpg" alt="파루시아">
-    <table class="infobox-table">
-      <tr><th>등급</th><td>★★★★★</td></tr>
-      <tr><th>소속</th><td>앰프리어스</td></tr>
-      <tr><th>속성</th><td>양자</td></tr>
-      <tr><th>운명의 길</th><td>기억</td></tr>
-      <tr><th>출시 일자</th><td>2025/04/09</td></tr>
-      <tr><th>획득 경로</th><td>한정 워프</td></tr>
-    </table>
-  </aside>
+
+  <table class="infobox-table" style="border-collapse: collapse; border: none;">
+    <tr>
+      <th style="background:#fff; color:#000; border:none; border-bottom:1px dashed #d6d6d6;">
+        등급
+      </th>
+      <td style="background:#fff; color:#000; border:none; border-bottom:1px dashed #d6d6d6;">
+        ★★★★★
+      </td>
+    </tr>
+    <tr>
+      <th style="background:#fff; color:#000; border:none; border-bottom:1px dashed #d6d6d6;">
+        소속
+      </th>
+      <td style="background:#fff; color:#000; border:none; border-bottom:1px dashed #d6d6d6;">
+        차원의 방랑자
+      </td>
+    </tr>
+    <tr>
+      <th style="background:#fff; color:#000; border:none; border-bottom:1px dashed #d6d6d6;">
+        속성
+      </th>
+      <td style="background:#fff; color:#000; border:none; border-bottom:1px dashed #d6d6d6;">
+        허수
+      </td>
+    </tr>
+    <tr>
+      <th style="background:#fff; color:#000; border:none; border-bottom:1px dashed #d6d6d6;">
+        운명의 길
+      </th>
+      <td style="background:#fff; color:#000; border:none; border-bottom:1px dashed #d6d6d6;">
+        지식
+      </td>
+    </tr>
+    <tr>
+      <th style="background:#fff; color:#000; border:none;">
+        출시 일자
+      </th>
+      <td style="background:#fff; color:#000; border:none;">
+        2025/11/11
+      </td>
+    </tr>
+  </table>
+</aside>
+
 
   <!-- 인포박스 영향 제거 -->
   <div style="clear: both;"></div>
 
   <!-- 버튼 (왼쪽 정렬) -->
   <div style="margin: 20px 0;">
-    <button onclick="location.href='#attribute'">속성</button>
-    <button onclick="location.href='#voice'">음성</button>
-    <button onclick="location.href='#story'">이야기</button>
-    <button onclick="location.href='#attack'">행적</button>
-    <button onclick="location.href='#eidolon'">성혼</button>
-  </div>
+  <button
+    onclick="location.href='#attribute'"
+    style="
+      background-color:#9eecff;
+      color:#ffffff;
+      border:none;
+      padding:6px 14px;
+      border-radius:6px;
+      font-weight:600;
+      cursor:pointer;
+    "
+  >속성</button>
 
-</section>
+  <button
+    onclick="location.href='#voice'"
+    style="
+      background-color:#9eecff;
+      color:#ffffff;
+      border:none;
+      padding:6px 14px;
+      border-radius:6px;
+      font-weight:600;
+      cursor:pointer;
+    "
+  >음성</button>
+
+  <button
+    onclick="location.href='#story'"
+    style="
+      background-color:#9eecff;
+      color:#ffffff;
+      border:none;
+      padding:6px 14px;
+      border-radius:6px;
+      font-weight:600;
+      cursor:pointer;
+    "
+  >이야기</button>
+
+  <button
+    onclick="location.href='#attack'"
+    style="
+      background-color:#9eecff;
+      color:#ffffff;
+      border:none;
+      padding:6px 14px;
+      border-radius:6px;
+      font-weight:600;
+      cursor:pointer;
+    "
+  >행적</button>
+
+  <button
+    onclick="location.href='#eidolon'"
+    style="
+      background-color:#9eecff;
+      color:#ffffff;
+      border:none;
+      padding:6px 14px;
+      border-radius:6px;
+      font-weight:600;
+      cursor:pointer;
+    "
+  >성혼</button>
+</div>
+
 
   <blockquote><p>「신의 숨결이 끊기자 신정제 기반의 행성은 큰 혼돈을 겪었다. 많은 이들의 증명이 서로 엇갈리기 시작하면서 주축으로 집결한 극단적 불신론자들은 내전을 일으켰고, 진리를 관망하던 행성은 곧 멸망했다. 다만 걱정할 것 없다. 진리는 아무리 큰 혼돈 속에서도 여전히 잔존하나니」</p></blockquote>
       
@@ -215,8 +306,8 @@ main {
   <section id="attribute">
     <h2><span class="wiki-blue">3.1.</span> 속성</h2>
         <table class="wiki-table">
-        <tr><th>HP</th><th>공격력</th><th>방어력</th><th>속도</th></tr>
-        <tr><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><th>레벨</th><th>HP</th><th>공격력</th><th>방어력</th><th>속도</th></tr>
+        <tr><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
       </table>
       </section>
 
@@ -224,24 +315,36 @@ main {
   <h2><span class="wiki-blue">3.2.1.</span> 일반공격: 논증 방법</h2>
 <div class="skill">
       <p>지정된 단일 적에게 파루시아 hp의 n%만큼 허수 속성 피해를 가한다</p>
+  
+   <blockquote><p>선의 이데를 실현해보죠</p></blockquote>
       </div>
 
 <section id="attack2">
   <h2><span class="wiki-blue">3.2.2.</span> 전투 스킬: 진리의 선도자</h2>
   <div class="skill">
     <p>모든 적에게 허수 속성 피해</p>
+
+  <blockquote><p>최초의 원형을 알아볼까요 / 진리의 실현을 위해!</p></blockquote>
+  <blockquote><p>최초의 이상향을(배속) / 진리를 위해!(배속)</p></blockquote>
       </div>
 
   <section id="attack3">
     <h2><span class="wiki-blue">3.2.3.</span> 필살기: 가장 고결했던 진리의 잔향</h2>
   <div class="skill">
       <p>에너지 90 소모, 전체 공격</p>
+
+  <blockquote><p>알아냈어요ㅡㅡ(활성화)</p></blockquote>
+  <blockquote><p>인생은 지혜와 지식을 찾아가는 여정입니다(발동)<br>
+지혜와 지식을 위한 여정(배속)</p></blockquote>
       </div>
 
   <section id="attack4">
-    <h2><span class="wiki-blue">3.2.4.</span> 강화 필살기: 빛이 영면에 드는 빙법</h2>
-  <div class="skill highlight">
+    <h2><span class="wiki-blue">3.2.4.</span> 특성: 빛이 영면에 드는 빙법</h2>
+  <div class="skill">
       <p>에너지 180 소모, 바운스 추가 피해, 속도가 10% 감소</p>
+
+  <blockquote><p>무식은 죄 입니다. / 좀 더 노력해보세요<br>
+  무식은 죄예요 / 좀 더 노력해 봐요.(배속)</p></blockquote>
       </div>
     </section>
 
