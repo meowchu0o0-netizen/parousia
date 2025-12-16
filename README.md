@@ -148,6 +148,7 @@ main {
 
 <section id="overview">
   <h2><span class="wiki-blue">1.</span> 개요</h2>
+  <img src="이미지주소.jpg" alt="파루시아">
   <blockquote><p>「그대의 최초의 교파는 멸망했다」</p></blockquote>
   <p>《붕괴: 스타레일》의 플레이어블 캐릭터.
 </p>
