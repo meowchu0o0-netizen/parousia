@@ -1,5 +1,9 @@
 # parousia
 star rail
+<!-- <style> 태그 건들지 마세요! -->
+<!-- [글자] 부분 채워주시면 됩니다. -->
+<!-- wiki-blue color, infobox table th color 변경 가능합니다. -->
+<!-- 1차 분들 제외 맨 아래 출처 지우지 말아주세요. -->
 
 <!DOCTYPE html>
 <html lang="ko">
@@ -17,7 +21,6 @@ main {
   max-width: 100%;
 }
 
-/* 인포박스 왼쪽 정렬 */
 .infobox {
   width: 320px;
   margin: 0 0 20px 0;
@@ -51,7 +54,6 @@ main {
   border: 1px solid #dcdcdc;
 }
 
-/* 목차 */
 .toc {
   border: 2px solid #a2a9b1;
   padding: 16px 20px;
@@ -84,7 +86,6 @@ main {
 .toc .lv3 { margin-left: 40px; }
 .toc .lv4 { margin-left: 60px; }
 
-/* 테이블 */
 .wiki-table {
   width: 100%;
 }
@@ -101,7 +102,7 @@ main {
 
 <main>
 
-<!-- 인포박스 -->
+<!-- 표 -->
 <aside class="infobox">
   <table class="infobox-table">
     <tr class="infobox-title">
@@ -145,14 +146,11 @@ main {
   </ul>
 </nav>
 
-<!-- 여기 아래는 네가 쓴 본문 그대로 -->
 <section id="overview">
   <h2><span class="wiki-blue">1.</span> 개요</h2>
   <blockquote><p>「그대의 최초의 교파는 멸망했다」</p></blockquote>
   <p>「신이 없으면 신앙심도 무의미 하죠. 이건 당연한 논리입니다.」</p>
 </section>
-
-
     
   <section id="media">
       <h2><span class="wiki-blue">2.</span> 관련 매체</h2>
