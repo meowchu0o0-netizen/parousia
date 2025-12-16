@@ -137,7 +137,7 @@ main {
     
   <tr class="infobox-title">
       <th colspan="2">
-        파루시아<br>
+        <center>파루시아</center><br>
         <span class="sub">Parousia</span>
       </th>
     </tr>
