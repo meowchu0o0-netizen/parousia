@@ -149,7 +149,8 @@ main {
 <section id="overview">
   <h2><span class="wiki-blue">1.</span> 개요</h2>
   <blockquote><p>「그대의 최초의 교파는 멸망했다」</p></blockquote>
-  <p>「신이 없으면 신앙심도 무의미 하죠. 이건 당연한 논리입니다.」</p>
+  <p>《붕괴: 스타레일》의 플레이어블 캐릭터.
+</p>
 </section>
     
   <section id="media">
