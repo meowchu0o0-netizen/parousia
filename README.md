@@ -152,7 +152,7 @@ main {
     <tr><th>출시일</th><td>2025-11-11</td></tr>
   </table>
 </aside>
-
+<div class="clear"></div>
 <nav class="toc">
   <ul>
     <li class="lv1"><a href="#overview">1. 개요</a></li>
