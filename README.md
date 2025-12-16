@@ -1,4 +1,4 @@
-# parousia
+# 파루시아
 1. < style> 태그 건들지 마세요!
 2. [글자] 부분 채워주시면 됩니다.
 3. wiki-blue color, #9eecff(기본적으로 세팅된 색상) 변경 가능합니다.
@@ -142,6 +142,7 @@ main {
     <li class="lv1"><a href="#information">3.4. 정보</a></li>
     <li class="lv2"><a href="#voice">3.4.1. 음성</a></li>
     <li class="lv2"><a href="#story">3.4.2. 이야기</a></li>
+    <li class="lv1"><a href="#relation">4. 인간관계</a></li>
   </ul>
 </nav>
 
@@ -348,18 +349,55 @@ main {
       </div>
     </section>
 
-   
 <section id="eidolon">
       <h2><span class="wiki-blue">3.3.</span> 성혼</h2>
-      <ol>
-        <li>영원한 진리</li>
+  
+  <table style="width:100%; text-align:center; border-collapse:collapse;">
+  <tr>
+    <td>
+      <img src="이미지1.jpg" style="width:120px;"><br>
+      <b>1</b><br>
+      온전함을<br>추구하리
+    </td>
+    <td>
+      <img src="이미지2.jpg" style="width:120px;"><br>
+      <b>2</b><br>
+      이데아의<br>현상계
+    </td>
+    <td>
+      <img src="이미지3.jpg" style="width:120px;"><br>
+      <b>3</b><br>
+      형상의<br>구조
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding-top:20px;">
+      <img src="이미지4.jpg" style="width:120px;"><br>
+      <b>4</b><br>
+      너 자신을<br>알라
+    </td>
+    <td style="padding-top:20px;">
+      <img src="이미지5.jpg" style="width:120px;"><br>
+      <b>5</b><br>
+      암야에서는<br>빛을 추구하라
+    </td>
+    <td style="padding-top:20px;">
+      <img src="이미지6.jpg" style="width:120px;"><br>
+      <b>6</b><br>
+      최초의 「빛」을<br>안는 법
+    </td>
+  </tr>
+</table>
+
+ <ol>
+        <li>온전함을 추구하리</li>
         <li>이데아의 현상계</li>
         <li>형상의 구조</li>
-        <li>부정과 진리</li>
-        <li>성령의 열매</li>
+        <li>너 자신을 알라</li>
+        <li>암야에서는 빛을 추구하라</li>
         <li>최초의 「빛」을 안는 법</li>
       </ol>
-    </section>
 
    <section id="information">
      <h2><span class="wiki-blue">3.4.</span> 정보</h2>
@@ -373,7 +411,7 @@ main {
       <tbody>
         <tr>
           <th>첫 만남</th>
-          <td>저는 진리의 선구자가 아닌 최초의 것을 신봉하는 진리의의 선도자입니다. 잊지 말아주세요</td>
+          <td>저는 진리의 선구자가 아닌 최초의 것을 신봉하는 진리의 선도자입니다. 잊지 말아주세요</td>
         </tr>
         <tr>
           <th>인사</th>
@@ -384,14 +422,16 @@ main {
           <td>머지 않은 미래에 다시 만나요</td>
         </tr>
         <tr>
-          <th>자신에 대해•진리</th>
+          <th>자신에 대해•<br>
+            진리</th>
           <td>
             세상에 진리가 없는 것은 없습니다.
             어떠한 「논제의 답이 0」이라는 것도 하나의 진리니까요
           </td>
         </tr>
         <tr>
-          <th>잡담•신봉</th>
+          <th>잡담•<br>
+            신봉</th>
           <td>존재하지 않는 것에 대한 신봉은 자신을 해하는 지름길 입니다. 그 끝엔 반드시 파멸이 있을 거에요</td>
         </tr>
         <tr>
@@ -425,8 +465,9 @@ main {
         <tr><th>성흔 활성화</th><td>진리는 그대를 좋은 삶의 방향으로 인도할 겁니다</td></tr>
         <tr><th>캐릭터 승급</th><td>깨달음에는 한계가 없습니다</td></tr>
         <tr><th>캐릭터 최고 레벨</th><td>풀지 못하는 논제란 없습니다. 그저 주체가 미지의 세계에 있을 뿐이죠</td></tr>
-        <tr><th>행적 활성화</th><td></td></tr>
-        <tr><th>파티 편성 뫄뫄</th><td></td></tr>
+        <tr><th>행적 활성화</th><td>저는 그대의 가능성을 믿어요</td></tr>
+        <tr><th>파티 편성•<br>
+          아젠티</th><td>방해나 안 되면 다행일텐데요</td></tr>
       </tbody>
     </table>
   </details>
@@ -435,29 +476,42 @@ main {
     <summary><b>[전투]</b></summary>
     <table>
       <tbody>
-        <tr><th>전투 시작 약점 격파</th><td>이제 편히 잠드시길</td></tr>
-        <tr><th>전투 시작 위험 경보</th><td></td></tr>
-        <tr><th>턴 시작 1</th><td>ㅇㅇㅇ</td></tr>
-        <tr><th>턴 시작 2</th><td></td></tr>
-        <tr><th>턴 대기</th><td></td></tr>
-        <tr><th>전투 스킬 1</th><td></td></tr>
-        <tr><th>전투 스킬 2</th><td></td></tr>
-        <tr><th>약공격 피격</th><td></td></tr>
-        <tr><th>강공격 피격</th><td></td></tr>
-        <tr><th>필살기 활성화</th><td></td></tr>
-        <tr><th>필살기 발동</th><td></td></tr>
-        <tr><th>전투 불능</th><td></td></tr>
-        <tr><th>전투 복귀</th><td></td></tr>
-        <tr><th>HP 회복</th><td></td></tr>
-        <tr><th>비술</th><td></td></tr>
-        <tr><th>전투 승리</th><td></td></tr>
-        <tr><th>전리품 오픈 1</th><td></td></tr>
-        <tr><th>전리품 오픈 2</th><td></td></tr>
-        <tr><th>진귀한 전리품 오픈</th><td></td></tr>
-        <tr><th>수수께끼 풀이 성공 1</th><td></td></tr>
-        <tr><th>수수께끼 풀이 성공 2</th><td></td></tr>
-        <tr><th>적 발견</th><td></td></tr>
-        <tr><th>도시로 복귀</th><td></td></tr>
+        <tr><th>전투 시작•<br>
+          약점 격파</th><td>이제 편히 잠드시길</td></tr>
+        <tr><th>전투 시작<br>
+          위험 경보</th><td>가르침이 필요한가요?</td></tr>
+        <tr><th>턴 시작 1</th><td>제가 나서겠습니다</td></tr>
+        <tr><th>턴 시작 2</th><td>그대에게 기대하고 있어요</td></tr>
+        <tr><th>턴 대기</th><td>지켜볼게요</td></tr>
+        <tr><th>전투 스킬•<br>
+          1</th><td> 제가 시도해 볼게요</td></tr>
+        <tr><th>전투 스킬•<br>
+          2</th><td>그건 허무한 자기기만입니다</td></tr>
+        <tr><th>약공격 피격</th><td>어이가 없군요</td></tr>
+        <tr><th>강공격 피격</th><td>그대는 품격이 없습니까?</td></tr>
+        <tr><th>필살기•<br>
+          활성화</th><td>겁이 없네요</td></tr>
+        <tr><th>필살기•<br>
+          발동</th><td>당신은 고집을 버리는 편이 좋겠습니다</td></tr>
+        <tr><th>전투 불능</th><td>아직... 실현이...</td></tr>
+        <tr><th>전투 복귀</th><td>제가 보고 싶었나요?</td></tr>
+        <tr><th>HP 회복</th><td>고마워요</td></tr>
+        <tr><th>비술</th><td>조용</td></tr>
+        <tr><th>전투 승리</th><td>증명해 냈나요?</td></tr>
+        <tr><th>전리품 오픈•<br>
+          1</th><td>나쁘지 않네요</td></tr>
+        <tr><th>전리품 오픈•<br>
+          2</th><td>이런 것도 있군요</td></tr>
+        <tr><th>진귀한<br>
+          전리품 오픈</th><td>증명을 마치면 보상이 뒤따라오는 법이죠</td></tr>
+        <tr><th>수수께끼<br>
+          풀이 성공•<br>
+          1</th><td>재밌네요</td></tr>
+        <tr><th>수수께끼<br>
+          풀이 성공•<br>
+          2</th><td>다른 놀이는 없나요?</td></tr>
+        <tr><th>적 발견</th><td>조심 하세요</td></tr>
+        <tr><th>도시로 복귀</th><td>떠들썩함이라... 그리운 향기네요</td></tr>
       </tbody>
     </table>
   </details>
@@ -465,29 +519,75 @@ main {
 
      
   <section id="story">
-      <h2><span class="wiki-blue">3.4.2.</span> 이야기</h2>
+  <h2><span class="wiki-blue">3.4.2.</span> 이야기</h2>
 
-  <button onclick="toggle('story1')">캐릭터 스토리 · 1</button>
-      <div id="story1" class="fold">
-        <p>Lv.20 개방</p>
-      </div>
+  <table class="wiki-table" style="border-collapse:collapse; width:100%;">
+    <tr>
+  <th colspan="2" style="
+    background:#9eecff;
+    color:#ffffff;
+    text-align:center;
+  ">
+    이야기
+  </th>
+</tr>
 
-  <button onclick="toggle('story2')">캐릭터 스토리 · 2</button>
-      <div id="story2" class="fold">
-        <p>Lv.40 개방</p>
-      </div>
+<tr>
+      <td colspan="2">
+        <details>
+          <summary><b><center>[캐릭터 상세]</center></b></summary>
+          <p>
+            여기에 캐릭터 스토리 1 내용 작성
+          </p>
+        </details>
+      </td>
+    </tr>
+    
+  <tr>
+      <td colspan="2">
+        <details>
+          <summary><b><center>[캐릭터 스토리 · 1]</center></b></summary>
+          <p>
+            여기에 캐릭터 스토리 1 내용 작성
+          </p>
+        </details>
+      </td>
+    </tr>
 
-  <button onclick="toggle('story3')">캐릭터 스토리 · 3</button>
-      <div id="story3" class="fold">
-        <p>Lv.60 개방</p>
-      </div>
+  <tr>
+      <td colspan="2">
+        <details>
+          <summary><b><center>[캐릭터 스토리 · 2]</center></b></summary>
+          <p>
+            여기에 캐릭터 스토리 2 내용 작성
+          </p>
+        </details>
+      </td>
+    </tr>
 
-  <button onclick="toggle('story4')">캐릭터 스토리 · 4</button>
-      <div id="story4" class="fold">
-        <p>Lv.80 개방</p>
-      </div>
-    </section>
+  <tr>
+      <td colspan="2">
+        <details>
+          <summary><b><center>[캐릭터 스토리 · 3]</center></b></summary>
+          <p>
+            여기에 캐릭터 스토리 3 내용 작성
+          </p>
+        </details>
+      </td>
+    </tr>
 
+  <tr>
+      <td colspan="2">
+        <details>
+          <summary><b><center>[캐릭터 스토리 · 4]</center></b></summary>
+          <p>
+            여기에 캐릭터 스토리 4 내용 작성
+          </p>
+        </details>
+      </td>
+    </tr>
+  </table>
+</section>
   </main>
 
 
