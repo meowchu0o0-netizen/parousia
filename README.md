@@ -167,6 +167,9 @@ main {
    
   <section id="ingame">
       <h2><span class="wiki-blue">3.</span> 인게임 정보</h2>
+      <img src="이미지주소.jpg" alt="파루시아">
+      <blockquote><p>「신이 죽은 지 얼마 지나지 않아 신정제 기반의 국가는 큰 혼돈을 겪었다. 많은 이들의 증명이 서로 엇갈리기 시작하며 주축으로 집결한 극단적 불신론자들은 내전을 일으켰고, 진리를 관망하던 행성은 곧 멸망했다. 다만 걱정할 것 없다. 진리는 아무리 큰 혼돈 속에서도 여전히 잔존하나니」</p></blockquote>
+      
 
   <section id="attribute">
     <h3><span class="wiki-blue">3.1.</span> 속성</h3>
@@ -274,7 +277,7 @@ main {
             때로는 신화적 언어나 감성적 언어를 더 많이 선택해야할 때도 있더군요.
           </td>
         </tr>
-        <tr><th>아젠티에 대해</th><td>의</td></tr>
+        <tr><th>아젠티에 대해</th><td>그자는 존재하지 않는 것에 대한 믿음이 너무나도 강인합니다. 진리의 선도자인 제가 이끌어드리는 수밖에요요그자td존재하tr않
         <tr><th>성흔 활성화</th><td>의</td></tr>
         <tr><th>성흔 활성화</th><td>의</td></tr>
         <tr><th>캐릭터 승급</th><td></td></tr>
