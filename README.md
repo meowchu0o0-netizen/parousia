@@ -8,29 +8,19 @@ star rail
 <title>파루시아</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-
 <style>
 .wiki-content .wiki-blue {
   color: #3366cc !important;
 }
-  
+
 main {
-  display: flow-root;
+  max-width: 100%;
 }
 
-.clear {
-  clear: both;
-}
-  .wiki-table {
-  width: 100%;
-  clear: both;
-}
-
-
+/* 인포박스 왼쪽 정렬 */
 .infobox {
   width: 320px;
-  float: right;
-  margin: 0 0 20px 20px;
+  margin: 0 0 20px 0;
 }
 
 .infobox img {
@@ -61,12 +51,11 @@ main {
   border: 1px solid #dcdcdc;
 }
 
+/* 목차 */
 .toc {
-  clear: both;
   border: 2px solid #a2a9b1;
   padding: 16px 20px;
   max-width: 420px;
-  background-color: transparent;
   margin: 20px 0;
 }
 
@@ -90,49 +79,32 @@ main {
   text-decoration: underline;
 }
 
-.toc .lv1 {
-  margin-left: 0;
+.toc .lv1 { margin-left: 0; }
+.toc .lv2 { margin-left: 20px; }
+.toc .lv3 { margin-left: 40px; }
+.toc .lv4 { margin-left: 60px; }
+
+/* 테이블 */
+.wiki-table {
+  width: 100%;
 }
-
-.toc .lv2 {
-  margin-left: 20px;
-}
-
-.toc .lv3 {
-  margin-left: 40px;
-}
-
-.toc .lv4 {
-  margin-left: 60px;
-}
-
-
-
-@media (max-width: 768px) {
-  .infobox {
-    float: none;
-    width: 100%;
-    margin: 10px 0;
-  }
-}
-
 </style>
 </head>
 
-
 <body>
-  <div class="wiki-content">
-  <header class="wiki-header">
+<div class="wiki-content">
+
+<header class="wiki-header">
   <h1>파루시아 <span class="en">parousia</span></h1>
   <p class="subtitle">붕괴: 스타레일 플레이어블 캐릭터</p>
 </header>
-  
-<main>
-  <aside class="infobox">
-  <div class="clear"></div>
 
+<main>
+
+<!-- 인포박스 -->
+<aside class="infobox">
   <table class="infobox-table">
-  <tr class="infobox-title">
+    <tr class="infobox-title">
       <th colspan="2">
         <center>파루시아</center><br>
         <span class="sub"><center>Parousia</center></span>
@@ -152,7 +124,8 @@ main {
     <tr><th>출시일</th><td>2025-11-11</td></tr>
   </table>
 </aside>
-<div class="clear"></div>
+
+<!-- 목차 -->
 <nav class="toc">
   <ul>
     <li class="lv1"><a href="#overview">1. 개요</a></li>
@@ -172,19 +145,12 @@ main {
   </ul>
 </nav>
 
-<footer class="wiki-footer">
-
-<div class="clear"></div>
-    
-  <section id="overview">
-      <h2><span class="wiki-blue">1.</span> 개요</h2>
-      <blockquote>
-        <p>「그대의 최초의 교파는 멸망했다」</p>
-      </blockquote>
-      <p>
-        「신이 없으면 신앙심도 무의미 하죠. 이건 당연한 논리입니다.」
-        </p>
-    </section>
+<!-- 여기 아래는 네가 쓴 본문 그대로 -->
+<section id="overview">
+  <h2><span class="wiki-blue">1.</span> 개요</h2>
+  <blockquote><p>「그대의 최초의 교파는 멸망했다」</p></blockquote>
+  <p>「신이 없으면 신앙심도 무의미 하죠. 이건 당연한 논리입니다.」</p>
+</section>
 
 
     
@@ -384,6 +350,6 @@ main {
   </footer>
 
   <script src="js/toggle.js"></script>
-  </footer>
+  </div>
 </body>
 </html>
