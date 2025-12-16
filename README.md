@@ -1,9 +1,4 @@
 # 파루시아
-1. < style> 태그 건들지 마세요!
-2. [글자] 부분 채워주시면 됩니다.
-3. wiki-blue color, #9eecff(기본적으로 세팅된 색상) 변경 가능합니다.
-4. 오류, 디버그 생겨도 도움 안 드립니다...
-5. 1차 분들 제외 맨 아래 출처 지우지 말아주세요.
 
 <!DOCTYPE html>
 <html lang="ko">
@@ -115,13 +110,13 @@ main {
   <img src="이미지주소.jpg" alt="파루시아">
   </td>
     </tr>
-    <tr><th>이름</th><td>파루시아</td></tr>
-    <tr><th>본명</th><td>휘포스타시스 파루시아</td></tr>
-    <tr><th>성별</th><td>여성</td></tr>
-    <tr><th>소속</th><td>차원 방랑자</td></tr>
-    <tr><th>속성</th><td>허수</td></tr>
-    <tr><th>운명의 길</th><td>지식</td></tr>
-    <tr><th>출시일</th><td>2025-11-15</td></tr>
+    <tr><th><center>이름</center></th><td>파루시아</td></tr>
+    <tr><th><center>본명</center></th><td>휘포스타시스 파루시아</td></tr>
+    <tr><th><center>성별</center></th><td>여성</td></tr>
+    <tr><th><center>소속</center></th><td>차원 방랑자</td></tr>
+    <tr><th><center>속성</center></th><td>허수</td></tr>
+    <tr><th><center>운명의 길</center></th><td>지식</td></tr>
+    <tr><th><center>언어별 표기</center></th><td>파루시아<br>Parousia<br>法鲁西亚<br>パルシア</td></tr>
   </table>
 </aside>
 
@@ -134,10 +129,10 @@ main {
     <li class="lv1"><a href="#ingame">3. 인게임 정보</a></li>
     <li class="lv2"><a href="#attribute">3.1. 속성</a></li>
     <li class="lv2"><a href="#attribute2">3.2. 행적</a></li>
-    <li class="lv3"><a href="#attack">3.2.1. 일반공격</a></li>
-    <li class="lv3"><a href="#attack2">3.2.2. 전투 스킬</a></li>
-    <li class="lv3"><a href="#attack3">3.2.3. 필살기</a></li>
-    <li class="lv3"><a href="#attack4">3.2.4. 강화 필살기</a></li>
+    <li class="lv3"><a href="#attack">3.2.1. 일반공격: 논증 방법</a></li>
+    <li class="lv3"><a href="#attack2">3.2.2. 전투 스킬: 진리의 선도자</a></li>
+    <li class="lv3"><a href="#attack3">3.2.3. 필살기: 가장 고결했던 진리의 잔향</a></li>
+    <li class="lv3"><a href="#attack4">3.2.4. 특성: 빛이 영면에 드는 빙법</a></li>
     <li class="lv1"><a href="#eidolon">3.3. 성혼</a></li>
     <li class="lv1"><a href="#information">3.4. 정보</a></li>
     <li class="lv2"><a href="#voice">3.4.1. 음성</a></li>
@@ -222,7 +217,7 @@ main {
         출시 일자
       </th>
       <td style="background:#fff; color:#000; border:none;">
-        2025/11/11
+        2025/11/15
       </td>
     </tr>
   </table>
@@ -312,6 +307,9 @@ main {
       </table>
       </section>
 
+  <section id="attribute2">
+  <h2><span class="wiki-blue">3.2.</span> 행적</h2>
+
   <section id="attack">
   <h2><span class="wiki-blue">3.2.1.</span> 일반공격: 논증 방법</h2>
 <div class="skill">
@@ -390,14 +388,20 @@ main {
   </tr>
 </table>
 
- <ol>
-        <li>온전함을 추구하리</li>
-        <li>이데아의 현상계</li>
-        <li>형상의 구조</li>
-        <li>너 자신을 알라</li>
-        <li>암야에서는 빛을 추구하라</li>
-        <li>최초의 「빛」을 안는 법</li>
-      </ol>
+<p>• 성혼 1 - <b>온전함을 추구하리</b></p>
+<p></p>
+<p>• 성혼 2 - <b>이데아의 현상</b></p>
+<p></p>
+<p>• 성혼 3 - <b>형상의 구조</b></p>
+<p></p>
+<p>• 성혼 4 - <b>너 자신을 알라</b></p>
+<p></p>
+<p>• 성혼 5 - <b>암야에서는 빛을 추구하라</b></p>
+<p></p>
+<p>• 성혼 6 - <b>최초의 「빛」을 안는 법</b></p>
+<p></p>
+
+
 
    <section id="information">
      <h2><span class="wiki-blue">3.4.</span> 정보</h2>
@@ -405,117 +409,164 @@ main {
 <section id="voice">
   <h2><span class="wiki-blue">3.4.1.</span> 음성</h2>
 
-  <details>
-    <summary><b>[상호작용]</b></summary>
-    <table>
-      <tbody>
-        <tr>
-          <th>첫 만남</th>
-          <td>저는 진리의 선구자가 아닌 최초의 것을 신봉하는 진리의 선도자입니다. 잊지 말아주세요</td>
-        </tr>
-        <tr>
-          <th>인사</th>
-          <td>오늘 그대가 새로 얻은 깨달음이 있나요?</td>
-        </tr>
-        <tr>
-          <th>작별</th>
-          <td>머지 않은 미래에 다시 만나요</td>
-        </tr>
-        <tr>
-          <th>자신에 대해•<br>
-            진리</th>
-          <td>
-            세상에 진리가 없는 것은 없습니다.
-            어떠한 「논제의 답이 0」이라는 것도 하나의 진리니까요
-          </td>
-        </tr>
-        <tr>
-          <th>잡담•<br>
-            신봉</th>
-          <td>존재하지 않는 것에 대한 신봉은 자신을 해하는 지름길 입니다. 그 끝엔 반드시 파멸이 있을 거에요</td>
-        </tr>
-        <tr>
-          <th>취미</th>
-          <td>요즘들어 리라의 선율이 참 듣기 좋더군요.</td>
-        </tr>
-        <tr>
-          <th>고민</th>
-          <td>
-            ——다들 간단한 이치를 알지 못하는 것 같아 안타깝습니다.
-            ...이데아가 사라져도 그 빈자리는 남아있습니다.
-            그 빈자들이야 말로 형상들의 구조이자, 세계의 질서이며,
-            의미의 섬광같은 것이죠.
-          </td>
-        </tr>
-        <tr>
-          <th>공유</th>
-          <td>
-            알레데이아의 진리의 전당에서는 고대의 초월적 의미가 담긴 경전이 가득 있었습니다.
-            뭐, 말이 초월적이지 대부분 종교의 교리를 따르자는 내용이었지만요
-          </td>
-        </tr>
-        <tr>
-          <th>견문</th>
-          <td>
-            전 은하에서 사람을 설득시키려면, 논리적 논증도 필요하지만
-            때로는 신화적 언어나 감성적 언어를 더 많이 선택해야할 때도 있더군요.
-          </td>
-        </tr>
-        <tr><th>아젠티에 대해</th><td>그자는 존재하지 않는 것에 대한 믿음이 너무나도 강인합니다. 진리의 선도자인 제가 이끌어드리는 수밖에요</td></tr>
-        <tr><th>성흔 활성화</th><td>진리는 그대를 좋은 삶의 방향으로 인도할 겁니다</td></tr>
-        <tr><th>캐릭터 승급</th><td>깨달음에는 한계가 없습니다</td></tr>
-        <tr><th>캐릭터 최고 레벨</th><td>풀지 못하는 논제란 없습니다. 그저 주체가 미지의 세계에 있을 뿐이죠</td></tr>
-        <tr><th>행적 활성화</th><td>저는 그대의 가능성을 믿어요</td></tr>
-        <tr><th>파티 편성•<br>
-          아젠티</th><td>방해나 안 되면 다행일텐데요</td></tr>
-      </tbody>
-    </table>
-  </details>
+  <table class="wiki-table" style="width:100%; border-collapse:collapse;">
 
-  <details>
-    <summary><b>[전투]</b></summary>
-    <table>
-      <tbody>
-        <tr><th>전투 시작•<br>
-          약점 격파</th><td>이제 편히 잠드시길</td></tr>
-        <tr><th>전투 시작<br>
-          위험 경보</th><td>가르침이 필요한가요?</td></tr>
-        <tr><th>턴 시작 1</th><td>제가 나서겠습니다</td></tr>
-        <tr><th>턴 시작 2</th><td>그대에게 기대하고 있어요</td></tr>
-        <tr><th>턴 대기</th><td>지켜볼게요</td></tr>
-        <tr><th>전투 스킬•<br>
-          1</th><td> 제가 시도해 볼게요</td></tr>
-        <tr><th>전투 스킬•<br>
-          2</th><td>그건 허무한 자기기만입니다</td></tr>
-        <tr><th>약공격 피격</th><td>어이가 없군요</td></tr>
-        <tr><th>강공격 피격</th><td>그대는 품격이 없습니까?</td></tr>
-        <tr><th>필살기•<br>
-          활성화</th><td>겁이 없네요</td></tr>
-        <tr><th>필살기•<br>
-          발동</th><td>당신은 고집을 버리는 편이 좋겠습니다</td></tr>
-        <tr><th>전투 불능</th><td>아직... 실현이...</td></tr>
-        <tr><th>전투 복귀</th><td>제가 보고 싶었나요?</td></tr>
-        <tr><th>HP 회복</th><td>고마워요</td></tr>
-        <tr><th>비술</th><td>조용</td></tr>
-        <tr><th>전투 승리</th><td>증명해 냈나요?</td></tr>
-        <tr><th>전리품 오픈•<br>
-          1</th><td>나쁘지 않네요</td></tr>
-        <tr><th>전리품 오픈•<br>
-          2</th><td>이런 것도 있군요</td></tr>
-        <tr><th>진귀한<br>
-          전리품 오픈</th><td>증명을 마치면 보상이 뒤따라오는 법이죠</td></tr>
-        <tr><th>수수께끼<br>
-          풀이 성공•<br>
-          1</th><td>재밌네요</td></tr>
-        <tr><th>수수께끼<br>
-          풀이 성공•<br>
-          2</th><td>다른 놀이는 없나요?</td></tr>
-        <tr><th>적 발견</th><td>조심 하세요</td></tr>
-        <tr><th>도시로 복귀</th><td>떠들썩함이라... 그리운 향기네요</td></tr>
+  <colgroup>
+    <col style="background:#9eecff; width:30%;">
+    <col>
+  </colgroup>
+
+
+  <tr>
+    <th colspan="2" style="
+    background:#9eecff;
+    color:#ffffff;
+    text-align:center;
+  ">
+        음성
+      </th>
+    </tr>
+<style>
+.voice-header {
+  background: #9eecff;
+  color: #ffffff;
+  width: 30%;
+}
+</style>
+  <!-- 상호작용 -->
+  <tr onclick="toggleVoice('interaction')" style="cursor:pointer;">
+      <th colspan="2" style="background:#f3f4f6;">
+        <span id="icon-interaction">▶</span> [상호작용]
+      </th>
+    </tr>
+    <tbody id="interaction" style="display:none;">
+     <tr>
+  <th class="voice-header">첫 만남</th>
+  <td>저는 진리의 선구자가 아닌 최초의 것을 신봉하는 진리의 선도자입니다. 잊지 말아주세요</td></tr>
+
+<tr><th class="voice-header">인사</th>
+<td>오늘 그대가 새로 얻은 깨달음이 있나요?</td></tr>
+
+<tr><th class="voice-header">작별</th>
+<td>머지 않은 미래에 다시 만나요</td></tr>
+
+<tr><th class="voice-header">자신에 대해•<br>진리</th>
+<td>세상에 진리가 없는 것은 없습니다. 어떠한 「논제의 답이 0」이라는 것도 하나의 진리니까요</td></tr>
+
+<tr><th class="voice-header">잡담•<br>신봉</th>
+<td>존재하지 않는 것에 대한 신봉은 자신을 해하는 지름길 입니다. 그 끝엔 반드시 파멸이 있을 거에요</td></tr>
+
+<tr><th class="voice-header">취미</th>
+<td>요즘들어 리라의 선율이 참 듣기 좋더군요.</td></tr>
+
+<tr><th class="voice-header">고민</th>
+<td>——다들 간단한 이치를 알지 못하는 것 같아 안타깝습니다. ...이데아가 사라져도 그 빈자리는 남아있습니다. 그 빈자들이야 말로 형상들의 구조이자, 세계의 질서이며 의미의 섬광같은 것이죠.</td></tr>
+
+<tr><th class="voice-header">공유</th>
+<td>알레데이아의 진리의 전당에서는 고대의 초월적 의미가 담긴 경전이 가득 있었습니다. 뭐, 말이 초월적이지 대부분 종교의 교리를 따르자는 내용이었지만요</td></tr>
+
+<tr><th class="voice-header">견문</th>
+<td>전 은하에서 사람을 설득시키려면, 논리적 논증도 필요하지만 때로는 신화적 언어나 감성적 언어를 더 많이 선택해야할 때도 있더군요.</td></tr>
+
+<tr><th class="voice-header">아젠티에 대해</th>
+<td>그자는 존재하지 않는 것에 대한 믿음이 너무나도 강인합니다. 진리의 선도자인 제가 이끌어드리는 수밖에요</td></tr>
+
+<tr><th class="voice-header">성흔 활성화</th>
+<td>진리는 그대를 좋은 삶의 방향으로 인도할 겁니다</td></tr>
+
+<tr><th class="voice-header">캐릭터 승급</th>
+<td>깨달음에는 한계가 없습니다</td></tr>
+
+<tr><th class="voice-header">캐릭터 최고 레벨</th>
+<td>풀지 못하는 논제란 없습니다. 그저 주체가 미지의 세계에 있을 뿐이죠</td></tr>
+
+<tr><th class="voice-header">행적 활성화</th>
+<td>저는 그대의 가능성을 믿어요</td></tr>
+
+<tr><th class="voice-header">파티 편성<br>• 아젠티</th>
+<td>방해나 안 되면 다행일텐데요</td></tr>
+</tbody>
+
+    <!-- 전투 -->
+  <tr onclick="toggleVoice('battle')" style="cursor:pointer;">
+      <th colspan="2" style="background:#f3f4f6;">
+        <span id="icon-battle">▶</span> [전투]
+      </th>
+    </tr>
+    <tbody id="battle" style="display:none;">
+      <tr>
+  <th class="voice-header">전투 시작•<br>약점 격파</th>
+  <td>이제 편히 잠드시길</td></tr>
+
+<tr><th class="voice-header">전투 시작•<br>위험 경보</th>
+  <td>가르침이 필요한가요?</td></tr>
+
+<tr><th class="voice-header">턴 시작 1</th>
+<td>제가 나서겠습니다</td></tr>
+
+<tr><th class="voice-header">턴 시작 2</th>
+<td>그대에게 기대하고 있어요</td></tr>
+
+<tr><th class="voice-header">턴 대기</th>
+<td>지켜볼게요</td></tr>
+
+<tr><th class="voice-header">전투 스킬•<br>1</th>
+<td>제가 시도해 볼게요</td></tr>
+
+<tr><th class="voice-header">전투 스킬•<br>2</th>
+<td>그건 허무한 자기기만입니다</td></tr>
+
+<tr><th class="voice-header">약공격 피격</th>
+<td>어이가 없군요</td></tr>
+
+<tr><th class="voice-header">강공격 피격</th>
+<td>그대는 품격이 없습니까?</td></tr>
+
+<tr><th class="voice-header">필살기•<br>활성화</th>
+<td>겁이 없네요</td></tr>
+
+<tr><th class="voice-header">필살기•<br>발동</th>
+<td>당신은 고집을 버리는 편이 좋겠습니다</td></tr>
+
+<tr><th class="voice-header">전투 불능</th>
+<td>아직... 실현이...</td></tr>
+
+<tr><th class="voice-header">전투 복귀</th>
+<td>제가 보고 싶었나요?</td></tr>
+
+<tr><th class="voice-header">HP 회복</th>
+<td>고마워요</td></tr>
+
+<tr><th class="voice-header">비술</th>
+<td>조용</td></tr>
+
+<tr><th class="voice-header">전투 승리</th>
+<td>증명해 냈나요?</td></tr>
+
+<tr><th class="voice-header">전리품 오픈•<br>1</th>
+<td>나쁘지 않네요</td></tr>
+
+<tr><th class="voice-header">전리품 오픈•<br>2</th>
+<td>이런 것도 있군요</td></tr>
+
+<tr><th class="voice-header">진귀한 전리품<br>오픈</th>
+<td>증명을 마치면 보상이 뒤따라오는 법이죠</td></tr>
+
+<tr><th class="voice-header">수수께끼 풀이 성공•<br>1</th>
+<td>재밌네요</td></tr>
+
+<tr><th class="voice-header">수수께끼 풀이 성공•<br>2</th>
+<td>다른 놀이는 없나요?</td></tr>
+
+<tr><th class="voice-header">적 발견</th>
+<td>조심 하세요</td></tr>
+
+<tr><th class="voice-header">도시로 복귀</th>
+<td>떠들썩함이라... 그리운 향기네요</td></tr>
       </tbody>
-    </table>
-  </details>
+  </table>
 </section>
+
 
      
   <section id="story">
@@ -590,10 +641,37 @@ main {
 </section>
   </main>
 
+  <section id="relation">
+  <h2><span class="wiki-blue">4.</span> 인간관계</h2>
+  <p>• 아젠티</p>
+  <p></p>
+  <p>• 아젠티</p>
+  <p></p>
+  <p>• 아젠티</p>
+  <p></p>
+  <p>• 아젠티</p>
+  <p></p>
+
+  
 
   <footer class="wiki-footer">
     <p>parousia · Honkai: Star Rail</p>
   </footer>
+
+<script>
+function toggleVoice(id) {
+  const body = document.getElementById(id);
+  const icon = document.getElementById('icon-' + id);
+
+  if (body.style.display === 'none') {
+    body.style.display = '';
+    icon.textContent = '▼';
+  } else {
+    body.style.display = 'none';
+    icon.textContent = '▶';
+  }
+}
+</script>
 
   <script src="js/toggle.js"></script>
   </div>
