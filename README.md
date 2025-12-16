@@ -46,7 +46,7 @@ main {
 
 .infobox-table th {
   background-color: #2b2f3a;
-  color: #cfd3ff;
+  color: cfd3ff;
   text-align: left;
   padding: 8px;
   width: 35%;
