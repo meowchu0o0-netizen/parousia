@@ -157,7 +157,7 @@ main {
   <section id="media">
       <h2><span class="wiki-blue">2.</span> 관련 매체</h2>
   <section id="media1">
-      <h3><span class="wiki-blue">2.1.</span> 소개 동영상</h3>
+      <h2><span class="wiki-blue">2.1.</span> 소개 동영상</h2>
       <div class="video">
         <iframe src="https://youtu.be/7R4OwF90NQI?si=YYtVOovTwl2hW6lb](https://youtu.be/Sgi13FRhGgA?si=4mzC8OD2cAMeWI9y" title="Character PV"></iframe>
       </div>
@@ -172,7 +172,7 @@ main {
       
 
   <section id="attribute">
-    <h3><span class="wiki-blue">3.1.</span> 속성</h3>
+    <h2><span class="wiki-blue">3.1.</span> 속성</h2>
         <table class="wiki-table">
         <tr><th>HP</th><th>공격력</th><th>방어력</th><th>속도</th></tr>
         <tr><td>-</td><td>-</td><td>-</td><td>-</td></tr>
@@ -180,7 +180,7 @@ main {
       </section>
 
   <section id="attack">
-  <h4><span class="wiki-blue">3.2.1.</span> 일반공격: 논증 방법</h4>
+  <h2><span class="wiki-blue">3.2.1.</span> 일반공격: 논증 방법</h2>
 <div class="skill">
       <p>지정된 단일 적에게 파루시아 hp의 n%만큼 허수 속성 피해를 가한다</p>
       </div>
@@ -192,13 +192,13 @@ main {
       </div>
 
   <section id="attack3">
-    <h4><span class="wiki-blue">3.2.3.</span> 필살기: 가장 고결했던 진리의 잔향</h4>
+    <h2><span class="wiki-blue">3.2.3.</span> 필살기: 가장 고결했던 진리의 잔향</h2>
   <div class="skill">
       <p>에너지 90 소모, 전체 공격</p>
       </div>
 
   <section id="attack4">
-    <h4><span class="wiki-blue">3.2.4.</span> 강화 필살기: 빛이 영면에 드는 빙법</h4>
+    <h2><span class="wiki-blue">3.2.4.</span> 강화 필살기: 빛이 영면에 드는 빙법</h2>
   <div class="skill highlight">
       <p>에너지 180 소모, 바운스 추가 피해, 속도가 10% 감소</p>
       </div>
