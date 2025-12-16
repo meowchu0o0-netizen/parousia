@@ -138,7 +138,7 @@ main {
   <tr class="infobox-title">
       <th colspan="2">
         <center>파루시아</center><br>
-        <span class="sub">Parousia</span>
+        <span class="sub"><center>Parousia</center></span>
       </th>
     </tr>
     <tr class="infobox-image">
