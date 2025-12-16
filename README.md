@@ -171,7 +171,7 @@ main {
     <li class="lv2"><a href="#story">3.4.2. 이야기</a></li>
   </ul>
 </nav>
-</main>
+
 <footer class="wiki-footer">
 
 <div class="clear"></div>
