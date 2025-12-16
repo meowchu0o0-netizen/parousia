@@ -107,14 +107,15 @@ main {
   <table class="infobox-table">
     <tr class="infobox-title">
       <th colspan="2">
+         <img src="이미지주소.jpg" alt="파루시아">
         <center>파루시아</center><br>
         <span class="sub"><center>Parousia</center></span>
       </th>
     </tr>
     <tr class="infobox-image">
       <td colspan="2">
-        <img src="이미지주소.jpg" alt="파루시아">
-      </td>
+  
+  </td>
     </tr>
     <tr><th>이름</th><td>파루시아</td></tr>
     <tr><th>본명</th><td>휘포스타시스 파루시아</td></tr>
@@ -167,8 +168,48 @@ main {
    
   <section id="ingame">
       <h2><span class="wiki-blue">3.</span> 인게임 정보</h2>
-      <img src="이미지주소.jpg" alt="파루시아">
-      <blockquote><p>「신의 숨결이 끊기자 신정제 기반의 행성은 큰 혼돈을 겪었다. 많은 이들의 증명이 서로 엇갈리기 시작하면서 주축으로 집결한 극단적 불신론자들은 내전을 일으켰고, 진리를 관망하던 행성은 곧 멸망했다. 다만 걱정할 것 없다. 진리는 아무리 큰 혼돈 속에서도 여전히 잔존하나니」</p></blockquote>
+
+<h3>파루시아</h3>
+
+<div style="
+  display: inline-block;
+  margin: 6px 0 16px 0;
+  padding: 6px 14px;
+  background-color: #7b82c6;
+  color: #ffffff;
+  border-radius: 8px;
+  font-weight: 600;
+">
+  기억
+</div>
+
+<aside class="infobox">
+   <img src="이미지주소.jpg" alt="파루시아">
+    <table class="infobox-table">
+      <tr><th>등급</th><td>★★★★★</td></tr>
+      <tr><th>소속</th><td>앰프리어스</td></tr>
+      <tr><th>속성</th><td>양자</td></tr>
+      <tr><th>운명의 길</th><td>기억</td></tr>
+      <tr><th>출시 일자</th><td>2025/04/09</td></tr>
+      <tr><th>획득 경로</th><td>한정 워프</td></tr>
+    </table>
+  </aside>
+
+  <!-- 인포박스 영향 제거 -->
+  <div style="clear: both;"></div>
+
+  <!-- 버튼 (왼쪽 정렬) -->
+  <div style="margin: 20px 0;">
+    <button onclick="location.href='#attribute'">속성</button>
+    <button onclick="location.href='#voice'">음성</button>
+    <button onclick="location.href='#story'">이야기</button>
+    <button onclick="location.href='#attack'">행적</button>
+    <button onclick="location.href='#eidolon'">성혼</button>
+  </div>
+
+</section>
+
+  <blockquote><p>「신의 숨결이 끊기자 신정제 기반의 행성은 큰 혼돈을 겪었다. 많은 이들의 증명이 서로 엇갈리기 시작하면서 주축으로 집결한 극단적 불신론자들은 내전을 일으켰고, 진리를 관망하던 행성은 곧 멸망했다. 다만 걱정할 것 없다. 진리는 아무리 큰 혼돈 속에서도 여전히 잔존하나니」</p></blockquote>
       
 
   <section id="attribute">
@@ -186,7 +227,7 @@ main {
       </div>
 
 <section id="attack2">
-  <h4><span class="wiki-blue">3.2.2.</span> 전투 스킬: 진리의 선도자</h4>
+  <h2><span class="wiki-blue">3.2.2.</span> 전투 스킬: 진리의 선도자</h2>
   <div class="skill">
     <p>모든 적에게 허수 속성 피해</p>
       </div>
@@ -278,9 +319,9 @@ main {
           </td>
         </tr>
         <tr><th>아젠티에 대해</th><td>그자는 존재하지 않는 것에 대한 믿음이 너무나도 강인합니다. 진리의 선도자인 제가 이끌어드리는 수밖에요</td></tr>
-        <tr><th>성흔 활성화</th><td>진리는 그대를 좋은 삶의 방향으로 인도할 겁니다.</td></tr>
+        <tr><th>성흔 활성화</th><td>진리는 그대를 좋은 삶의 방향으로 인도할 겁니다</td></tr>
         <tr><th>캐릭터 승급</th><td>깨달음에는 한계가 없습니다</td></tr>
-        <tr><th>캐릭터 최고 레벨</th><td>이세계의</td></tr>
+        <tr><th>캐릭터 최고 레벨</th><td>풀지 못하는 논제란 없습니다. 그저 주체가 미지의 세계에 있을 뿐이죠</td></tr>
         <tr><th>행적 활성화</th><td></td></tr>
         <tr><th>파티 편성 뫄뫄</th><td></td></tr>
       </tbody>
