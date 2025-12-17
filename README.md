@@ -157,7 +157,7 @@ main {
 
   <div class="video">
       <iframe
-        src="[https://www.youtube.com/embed/Sgi13FRhGgA](https://youtu.be/fGukTzgvQVY?si=Q6WUZ4wUdKHrI-PK)"
+        src="https://youtu.be/fGukTzgvQVY?si=VxVaVZUIexhupkLH"
         title="Character PV"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
