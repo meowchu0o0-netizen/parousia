@@ -115,7 +115,8 @@ main {
     <tr><th><center>성별</center></th><td>여성</td></tr>
     <tr><th><center>소속</center></th><td>차원 방랑자</td></tr>
     <tr><th><center>속성</center></th><td>허수</td></tr>
-    <tr><th><center>운명의 길</center></th><td>지식</td></tr>
+    <tr><th><center>운명의 길</center></th><td><img src="images/지식.jpg" alt="지식">
+지식</td></tr>
     <tr><th><center>언어별 표기</center></th><td>파루시아<br>Parousia<br>法鲁西亚<br>パルシア</td></tr>
   </table>
 </aside>
