@@ -150,13 +150,22 @@ main {
 </section>
     
   <section id="media">
-      <h2><span class="wiki-blue">2.</span> 관련 매체</h2>
+  <h2><span class="wiki-blue">2.</span> 관련 매체</h2>
+
   <section id="media1">
-      <h2><span class="wiki-blue">2.1.</span> 소개 동영상</h2>
-      <div class="video">
-        <iframe src="https://youtu.be/7R4OwF90NQI?si=YYtVOovTwl2hW6lb](https://youtu.be/Sgi13FRhGgA?si=4mzC8OD2cAMeWI9y" title="Character PV"></iframe>
-      </div>
-    </section>
+    <h2><span class="wiki-blue">2.1.</span> 소개 동영상</h2>
+
+  <div class="video">
+      <iframe
+        src="[https://www.youtube.com/embed/Sgi13FRhGgA](https://youtu.be/fGukTzgvQVY?si=Q6WUZ4wUdKHrI-PK)"
+        title="Character PV"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+      </iframe>
+    </div>
+  </section>
+</section>
 
 
    
