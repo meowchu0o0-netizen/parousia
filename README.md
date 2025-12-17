@@ -107,7 +107,7 @@ main {
     </tr>
     <tr class="infobox-image">
       <td colspan="2">
-  <img src="파루시아.png" alt="파루시아">
+  <img src="parousia/파루시아.png" alt="파루시아">
   </td>
     </tr>
     <tr><th><center>이름</center></th><td>파루시아</td></tr>
