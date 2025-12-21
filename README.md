@@ -653,7 +653,8 @@ main {
 
   <section id="relation">
   <h2><span class="wiki-blue">4.</span> 인간관계</h2>
-  <p>• [아젠티](https://share.google/mb13838bKYDWBeRcq){:target="_blank"}</p>
+  <p><a href="https://share.google/mb13838bKYDWBeRcq">• 
+    아젠티</a></p>
   <p>행방이 묘연한 이드릴라를 섬기는 것을 무척 아니꼽게 여기며 그를 올바른 길로 인도하려 한다.</p>
   <p>• 개척자</p>
   <p>그의 개척 의지를 높게 평가하며, 사차원 적인 그의 대답을 통해 새로운 진리를 얻으려 그의 여정에 대한 것을 매번 물어보고는 한다.</p>
