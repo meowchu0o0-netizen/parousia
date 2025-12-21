@@ -117,7 +117,7 @@ main {
     <tr><th><center>속성</center></th><td>허수</td></tr>
     <tr><th><center>운명의 길</center></th><td><img src="images/지식.png" alt="지식">
 지식</td></tr>
-    <tr><th><center>언어별 표기</center></th><td>파루시아<br>Parousia<br>法鲁西亚<br>パルシア</td></tr>
+    <tr><th><center>언어별 표기</center></th><td>파루시아<br>Parousia<br>帕鲁西亚<br>パルシア</td></tr>
   </table>
 </aside>
 
