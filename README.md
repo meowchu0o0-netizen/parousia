@@ -660,7 +660,7 @@ main {
   <p>그의 개척 의지를 높게 평가하며, 사차원 적인 그의 대답을 통해 새로운 진리를 얻으려 그의 여정에 대한 것을 매번 물어보고는 한다.</p>
   <p><a href="https://share.google/0LgSu1nUS8O4CVgWZ">• 웰트</a>, <a href="https://share.google/AjjWMW0OnCfuqUMAx">히메코</a></p>
   <p>감정에 서툰 파루시아의 멘토 역할을 자처하고 있다. 파루시아가 가끔 상황에 맞지 않게 과히 논리에 집착하는 모습을 보이면 옆에서 불쑥 튀어나와 제지를 해주곤 한다. 파루시아에게는 아버지같은 존재이기도 하다.</p>
-  <p>• 단항, Mar. 7th</p>
+  <p><a href="https://share.google/zATk8Ax5WmsobBZTb">• 단항</a>, <a href="https://share.google/ZD9wGWHRrjPPbwUEm">Mar. 7th</a></p>
   <p>파루시아를 은하열차에 합류시킨 범인들. 비록 개인 우주선으로 온 우주를 누비고 다니기 때문에 열차에 탑승하는 일은 적지만, 아무리 멀리 떠나도 언제든 돌아갈 수 있는 안식처를 제공해 준 이들이라 가끔 침대 맡에 다른 행성의 선물을 두고간다는 둥 감사를 표하는 모습을 보이곤 한다.</p>
 
   
