@@ -1,5 +1,3 @@
-# 파루시아
-
 <!DOCTYPE html>
 <html lang="ko">
 <head>
