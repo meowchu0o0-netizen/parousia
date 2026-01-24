@@ -83,6 +83,10 @@ main {
 .wiki-table {
   width: 100%;
 }
+
+#story {
+  clear: both;
+  }
 </style>
 </head>
 
@@ -171,6 +175,13 @@ main {
 
    
   <section id="ingame">
+    <div class="ingame-layout">
+
+    <aside class="infobox">
+    </aside>
+
+    <div class="ingame-content">
+    
       <h2><span class="wiki-blue">3.</span> 인게임 정보</h2>
 <img src="파루시아.png" alt="파루시아">
 <h3>파루시아</h3>
@@ -577,9 +588,7 @@ main {
   </table>
 </section>
 
-
-
-  <div style="clear: both;"></div>
+<div style="clear: both;"></div>
   <section id="story">
   <h2><span class="wiki-blue">3.4.2.</span> 이야기</h2>
 
