@@ -84,9 +84,9 @@ main {
   width: 100%;
 }
 
-#story {
-  clear: both;
-  }
+.infobox {
+  float: none !important;
+}
 </style>
 </head>
 
