@@ -578,7 +578,8 @@ main {
 </section>
 
 
-     
+
+  <div style="clear: both;"></div>
   <section id="story">
   <h2><span class="wiki-blue">3.4.2.</span> 이야기</h2>
 
