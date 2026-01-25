@@ -427,7 +427,9 @@ cursor:pointer;
 <td>떠들썩함이라... 그리운 향기네요</td></tr>  
       </tbody>  
   </table>  
-</section>    <section id="story">  
+</section>    
+<div style="clear: both;"></div>
+<section id="story">  
   <h2><span class="wiki-blue">3.4.2.</span> 이야기</h2>    <table class="wiki-table" style="border-collapse:collapse; width:100%;">  
     <tr>  
   <th colspan="2" style="  
