@@ -9,77 +9,77 @@
   color: #3366cc !important;  
 }  
   
-main {  
-  max-width: 100%;  
-}  
-.infobox {  
-  width: 320px;  
-  margin: 0 0 20px 0;  
-}  
-  
-.infobox img {  
-  width: 100%;  
-  display: block;  
-}  
-  
-.infobox-table {  
-  width: 100%;  
-  border-collapse: collapse;  
-  font-size: 14px;  
-}  
-  
-.infobox-table th {  
-  background-color: #2b2f3a;  
-  color: #9eecff;  
-  text-align: left;  
-  padding: 8px;  
-  width: 35%;  
-  border: 1px solid #dcdcdc;  
-  font-weight: 600;  
-}  
-  
-.infobox-table td {  
-  background-color: #f8f9fa;  
-  color: #000;  
-  padding: 8px;  
-  border: 1px solid #dcdcdc;  
-}  
-  
-.toc {  
-  border: 2px solid #a2a9b1;  
-  padding: 16px 20px;  
-  max-width: 420px;  
-  margin: 20px 0;  
-}  
-  
-.toc ul {  
-  list-style: none;  
-  padding-left: 0;  
-  margin: 0;  
-}  
-  
-.toc li {  
-  margin: 4px 0;  
-  line-height: 1.6;  
-}  
-  
-.toc a {  
-  text-decoration: none;  
-  color: #3366cc;  
-}  
-  
-.toc a:hover {  
-  text-decoration: underline;  
-}  
-  
-.toc .lv1 { margin-left: 0; }  
-.toc .lv2 { margin-left: 20px; }  
-.toc .lv3 { margin-left: 40px; }  
-.toc .lv4 { margin-left: 60px; }  
-  
-.wiki-table {  
-  width: 100%;  
-}  
+main {
+  max-width: 100%;
+}
+.infobox {
+  width: 320px;
+  margin: 0 0 20px 0;
+}
+
+.infobox img {
+  width: 100%;
+  display: block;
+}
+
+.infobox-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+.infobox-table th {
+  background-color: #2b2f3a;
+  color: #9eecff;
+  text-align: left;
+  padding: 8px;
+  width: 35%;
+  border: 1px solid #dcdcdc;
+  font-weight: 600;
+}
+
+.infobox-table td {
+  background-color: #f8f9fa;
+  color: #000;
+  padding: 8px;
+  border: 1px solid #dcdcdc;
+}
+
+.toc {
+  border: 2px solid #a2a9b1;
+  padding: 16px 20px;
+  max-width: 420px;
+  margin: 20px 0;
+}
+
+.toc ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.toc li {
+  margin: 4px 0;
+  line-height: 1.6;
+}
+
+.toc a {
+  text-decoration: none;
+  color: #3366cc;
+}
+
+.toc a:hover {
+  text-decoration: underline;
+}
+
+.toc .lv1 { margin-left: 0; }
+.toc .lv2 { margin-left: 20px; }
+.toc .lv3 { margin-left: 40px; }
+.toc .lv4 { margin-left: 60px; }
+
+.wiki-table {
+  width: 100%;
+}
 </style>  </head>  <body>  
 <div class="wiki-content">  <header class="wiki-header">  
   <h1>파루시아 <span class="en">parousia</span></h1>  
