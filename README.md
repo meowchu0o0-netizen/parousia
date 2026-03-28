@@ -107,7 +107,7 @@ main {
     </tr>
     <tr class="infobox-image">
       <td colspan="2">
-  <img src="이미지주소.jpg" alt="[파루시아]">
+  <img src="images/파루시아.png" alt="[파루시아]">
   </td>
     </tr>
     <tr><th><center>이름</center></th><td>[파루시아]</td></tr>
@@ -143,8 +143,8 @@ main {
 
 <section id="overview">
   <h2><span class="wiki-blue">1.</span> 개요</h2>
-  <img src="이미지주소.jpg" alt="파루시아">
-  <blockquote><p>「[대사]」</p></blockquote>
+  <img src="images/파루시아.png" alt="파루시아">
+  <blockquote><p>「그대의 최초의 교파는 멸망했다」</p></blockquote>
   <p>《붕괴: 스타레일》의 플레이어블 캐릭터.
 </p>
 </section>
@@ -154,7 +154,7 @@ main {
   <section id="media1">
       <h2><span class="wiki-blue">2.1.</span> 소개 동영상</h2>
       <div class="video">
-        <iframe src="https://youtu.be/7R4OwF90NQI?si=YYtVOovTwl2hW6lb](https://youtu.be/Sgi13FRhGgA?si=4mzC8OD2cAMeWI9y" title="Character PV"></iframe>
+        <iframe src="https://www.youtube.com/embed/jKQuxwY9kHE" title="Character PV"></iframe>
       </div>
     </section>
 
