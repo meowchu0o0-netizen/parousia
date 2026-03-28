@@ -110,13 +110,13 @@ main {
   <img src="images/파루시아.png" alt="[파루시아]">
   </td>
     </tr>
-    <tr><th><center>이름</center></th><td>[파루시아]</td></tr>
-    <tr><th><center>본명</center></th><td>[휘포스타시스 파루시아]</td></tr>
-    <tr><th><center>성별</center></th><td>[여성]</td></tr>
-    <tr><th><center>소속</center></th><td>[차원 방랑자]</td></tr>
-    <tr><th><center>속성</center></th><td>[허수]</td></tr>
-    <tr><th><center>운명의 길</center></th><td>[지식]</td></tr>
-    <tr><th><center>언어별 표기</center></th><td>[파루시아]<br>[Parousia]<br>[帕鲁西亚]<br>[パルシア]</td></tr>
+    <tr><th><center>이름</center></th><td>파루시아</td></tr>
+    <tr><th><center>본명</center></th><td>휘포스타시스 파루시아</td></tr>
+    <tr><th><center>성별</center></th><td>여성</td></tr>
+    <tr><th><center>소속</center></th><td>차원 방랑자</td></tr>
+    <tr><th><center>속성</center></th><td>허수</td></tr>
+    <tr><th><center>운명의 길</center></th><td>지식</td></tr>
+    <tr><th><center>언어별 표기</center></th><td>파루시아<br>Parousia<br>帕鲁西亚<br>パルシア</td></tr>
   </table>
 </aside>
 
@@ -449,7 +449,7 @@ main {
 <tr><th class="voice-header">작별</th>
 <td>머지 않은 미래에 다시 만나요</td></tr>
 
-<tr><th class="voice-header">자신에 대해•<br>[기입]</th>
+<tr><th class="voice-header">자신에 대해•<br>진리</th>
 <td>세상에 진리가 없는 것은 없습니다. 어떠한 「논제의 답이 0」이라는 것도 하나의 진리니까요</td></tr>
 
 <tr><th class="voice-header">잡담•<br>신봉</th>
