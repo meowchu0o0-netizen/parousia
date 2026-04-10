@@ -680,7 +680,7 @@ main {
   
 
   <footer class="wiki-footer">
-    <p>Not Hoyoverse · Honkai: Star Rail / © </p>
+    <p>Not Hoyoverse · Honkai: Star Rail / ©글그림사이트 all me </p>
   </footer>
 
 <script>
